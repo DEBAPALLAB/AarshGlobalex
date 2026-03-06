@@ -1,0 +1,44 @@
+{
+    "name": "Irinotecan Injection IP",
+    "slug": "irinotecan-injection-ip-10351261",
+    "specifications": {
+        "Origin of Medicine": "India",
+        "Drug Type": "Injection",
+        "Physical Form": "Liquid",
+        "Dosage": "100mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Storage Instructions": "Cool place"
+    },
+    "information": {
+        "Minimum Order Quantity": "100 Packs",
+        "Payment Terms": "Cash in Advance (CID)",
+        "Supply Ability": "4000 Packs  Per Month",
+        "Delivery Time": "2-10 Days",
+        "Main Domestic Market": "All India"
+    },
+    "about": "Irinotecan Injection IP is a liquid medication used for the treatment of colon and rectal cancer. It is a type of chemotherapy drug that works by inhibiting the growth of cancer cells. This injection is manufactured in India and is available in a dosage of 100mg. The recommended dosage of this injection should be taken as per the doctors suggestion. It is an effective medication that should be stored in a cool place to maintain its effectiveness.",
+    "faq": [
+        {
+            "q": "What is Irinotecan Injection IP?",
+            "a": "Irinotecan Injection IP is a liquid medication that is used for the treatment of colon and rectal cancer."
+        },
+        {
+            "q": "What is the recommended dosage of Irinotecan Injection IP?",
+            "a": "The recommended dosage of Irinotecan Injection IP is 100mg, which should be taken as per the doctors suggestion."
+        },
+        {
+            "q": "What is the origin of Irinotecan Injection IP?",
+            "a": "Irinotecan Injection IP is manufactured in India."
+        },
+        {
+            "q": "What is the physical form of Irinotecan Injection IP?",
+            "a": "Irinotecan Injection IP is a liquid medication that needs to be injected into the body."
+        },
+        {
+            "q": "How should Irinotecan Injection IP be stored?",
+            "a": "Irinotecan Injection IP should be stored in a cool place to maintain its effectiveness."
+        }
+    ],
+    "image_url": "images/irinotecan-injection-ip-10351261.jpg",
+    "category_slug": "pharmaceutical-injections"
+}

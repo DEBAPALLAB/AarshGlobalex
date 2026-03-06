@@ -1,0 +1,35 @@
+{
+  "title": "Anti Malarial Medicine",
+  "slug": "anti-malarial-medicine",
+  "description": [
+    "Discover the exceptional quality of our Anti Malarial Medicine, which includes Artemether Lumefentarine Tablets and 250 MG Levofloxacin Tablets IP. As an exporter, supplier, and trader, we have over 3.0 years of experience in providing top-notch medicines to our customers. Our Anti Malarial Medicine has five advantages and features that make it stand out from the rest. Firstly, we offer a discount on bulk orders, making it affordable for everyone. Secondly, we personalise our services to meet the specific needs of our customers. Thirdly, our medicine is top-rated and has received positive feedback from our clients. Fourthly, it is perfect for the application of treating malaria. Lastly, our medicine has superb quality and is highly effective in treating the disease. Our supply ability in the domestic market is all over India, making it easily accessible to those in need. Choose our Anti Malarial Medicine for a perfect and effective solution to malaria."
+  ],
+  "medicines": [
+    {
+      "name": "Artemether Lumefentarine Tablets",
+      "slug": "artemether-lumefentarine-tablets",
+      "card-info": {
+        "Dosage": "As per suggestion",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "250 MG Levofloxacin Tablets IP",
+      "slug": "250-mg-levofloxacin-tablets-ip",
+      "card-info": {
+        "Dosage": "250 MG",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    }
+  ]
+}

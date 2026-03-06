@@ -1,0 +1,44 @@
+{
+    "name": "7.5 ML Nasal Spray",
+    "slug": "7-5-ml-nasal-spray-10351402",
+    "specifications": {
+        "Dosage Form": "Spray",
+        "Origin of Medicine": "India",
+        "Drug Type": "General Medicines",
+        "Physical Form": "Liquid",
+        "Dosage": "7.5 ML",
+        "Storage Instructions": "Dry Place"
+    },
+    "information": {
+        "Minimum Order Quantity": "100 Units",
+        "Payment Terms": "Cash in Advance (CID)",
+        "Supply Ability": "5000 Units  Per Month",
+        "Delivery Time": "2-7 Days",
+        "Main Domestic Market": "All India"
+    },
+    "about": "The 7.5 ML Nasal Spray is a general medicine that comes in a liquid form and is designed to provide relief from nasal congestion. The medicine is produced in India and is supplied, exported, and traded by the manufacturer. The 7.5 ML dosage form is ideal for single-use and can provide quick relief from nasal discharge, runny nose, and sneezing. The medicine is stored in a dry place to ensure its efficacy and longevity. The spray is easy to use and can be administered by anyone without any special medical training. The drug type of the medicine is general, which means it is suitable for all ages and can be used for a variety of symptoms. The dosage form of the medicine is spray, which is a convenient way to deliver the medicine directly to the nasal cavity.",
+    "faq": [
+        {
+            "q": "What is the dosage of the medicine?",
+            "a": "The dosage of the 7.5 ML Nasal Spray is 7.5 ML."
+        },
+        {
+            "q": "What is the physical form of the medicine?",
+            "a": "The physical form of the medicine is a liquid."
+        },
+        {
+            "q": "What is the drug type of the medicine?",
+            "a": "The drug type of the medicine is general, which means it is suitable for all ages and can be used for a variety of symptoms."
+        },
+        {
+            "q": "How should the medicine be stored?",
+            "a": "The medicine should be stored in a dry place to ensure its efficacy and longevity."
+        },
+        {
+            "q": "How should the medicine be administered?",
+            "a": "The medicine should be administered through the nasal cavity using the spray form. It is easy to use and can be administered by anyone without any special medical training."
+        }
+    ],
+    "image_url": "images/7-5-ml-nasal-spray-10351402.jpg",
+    "category_slug": "nasal-spray"
+}

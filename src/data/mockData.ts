@@ -59,9 +59,9 @@ export const FEATURED_PRODUCTS = [
 ];
 
 export const COMPANY_INFO = {
-  name: 'CLAN NUMEN',
-  gst: '27AARFC6472H1ZZ',
-  contactPerson: 'Mr Clan Numen (Partner)',
-  mobile: '07971891554( PIN:617)',
-  address: 'Plot No 18 A, Pipla Road,Nagpur - 440034, Maharashtra, India',
+  name: 'Aarsh Globalex',
+  gst: '---',
+  contactPerson: 'Mr Aarrsh Globalex (Partner)',
+  mobile: '---',
+  address: 'Plot No -, Nandanvan, Nagpur - 440034, Maharashtra, India',
 };

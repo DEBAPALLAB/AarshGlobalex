@@ -1,0 +1,43 @@
+{
+    "name": "Tresiba Flex Touch Pen",
+    "slug": "tresiba-flex-touch-pen-10351424",
+    "specifications": {
+        "Origin of Medicine": "India",
+        "Dosage Form": "Liquid",
+        "Drug Type": "General Medicines",
+        "Dosage": "As per suggestion",
+        "Storage Instructions": "Dry Place"
+    },
+    "information": {
+        "Minimum Order Quantity": "100 Units",
+        "Payment Terms": "Cash in Advance (CID)",
+        "Supply Ability": "5000 Units  Per Month",
+        "Delivery Time": "2-7 Days",
+        "Main Domestic Market": "All India"
+    },
+    "about": "Tresiba Flex Touch Pen is a general medicine available in liquid form and manufactured in India. It is used as per suggestion and stored in a dry place. The medicine is designed to provide long-lasting and consistent blood sugar control to patients with diabetes. The pen is user-friendly, allowing patients to easily adjust their dosage with the touch of a button. The Tresiba Flex Touch Pen is a reliable and convenient option for diabetic patients who need to manage their blood sugar levels.",
+    "faq": [
+        {
+            "q": "What is Tresiba Flex Touch Pen used for?",
+            "a": "Tresiba Flex Touch Pen is used for controlling blood sugar levels in patients with diabetes."
+        },
+        {
+            "q": "How is Tresiba Flex Touch Pen administered?",
+            "a": "Tresiba Flex Touch Pen is administered subcutaneously (under the skin) using the pens needle."
+        },
+        {
+            "q": "What is the dosage of Tresiba Flex Touch Pen?",
+            "a": "The dosage of Tresiba Flex Touch Pen should be taken as per the suggestion of the physician."
+        },
+        {
+            "q": "What are the storage instructions for Tresiba Flex Touch Pen?",
+            "a": "Tresiba Flex Touch Pen should be stored in a dry place."
+        },
+        {
+            "q": "Is Tresiba Flex Touch Pen user-friendly?",
+            "a": "Yes, Tresiba Flex Touch Pen is user-friendly and allows patients to easily adjust their dosage with the touch of a button."
+        }
+    ],
+    "image_url": "images/tresiba-flex-touch-pen-10351424.jpg",
+    "category_slug": "kwik-pen"
+}

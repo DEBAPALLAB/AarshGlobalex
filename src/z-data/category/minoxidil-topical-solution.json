@@ -1,0 +1,33 @@
+{
+  "title": "Minoxidil Topical Solution",
+  "slug": "minoxidil-topical-solution",
+  "description": [
+    "Step into the future with our Minoxidil Topical Solution, available in two strengths - USP 5% and USP 10%. Our product is a peerless solution for hair loss, providing phenomenal results in a limited time. With over 3.0 years of experience in the industry, we are an exclusive exporter, supplier, and trader of Minoxidil Topical Solution in the domestic market, catering to All India. Our product is known for its magnificent features and advantages, including promoting hair growth, preventing hair loss, improving hair density, enhancing hair thickness, and revitalizing hair follicles. And the best part? We offer the best price for our Minoxidil Topical Solution, making it an affordable solution for all. So, step into the future with our Minoxidil Topical Solution and experience the transformation of your hair."
+  ],
+  "medicines": [
+    {
+      "name": "Minoxidil Topical Solution USP 5%",
+      "slug": "minoxidil-topical-solution-usp-5-",
+      "card-info": {
+        "Dosage": "As per suggestion",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "Minoxidil Topical Solution USP 10%",
+      "slug": "minoxidil-topical-solution-usp-10-",
+      "card-info": {
+        "Dosage": "As per suggestion",
+        "Dosage Form": "Solid",
+        "Origin of Medicine": "India",
+        "Recommended For": "Hair Restore",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    }
+  ]
+}

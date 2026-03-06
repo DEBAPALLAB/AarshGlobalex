@@ -1,0 +1,127 @@
+{
+  "title": "Anti Depressant Tablets",
+  "slug": "anti-depressant-tablets-",
+  "description": [
+    "Presenting our innovative Anti Depressant Tablets, which are a new release in the market. Our company, an exporter, supplier, and trader, offers a range of anti-depressant tablets that are excellent in quality and efficacy. Our product list includes 5 MG Atorvastatin Tablets, 30 MG Duloxetine Hydrochloride Tablets, 10 MG Buspirone Hydrochloride Tablets IP, 40 MG Propranolol Hydrochloride Tablets IP, and 5 MG Olanazapine Tablets IP. These tablets are available for purchase in the domestic market, with a supply ability of All India.",
+    "Our Anti Depressant Tablets have been designed to provide superlative relief from depression and anxiety. With over 3.0 years of experience in the industry, we have developed a product that is immaculate in its formulation and effectiveness. The tablets offer five key advantages and features, including fast-acting relief, long-lasting effects, minimal side effects, easy to consume, and affordable pricing."
+  ],
+  "medicines": [
+    {
+      "name": "40 MG Ato Moxetine Hydrochloride Tablets",
+      "slug": "40-mg-ato-moxetine-hydrochloride-tablets",
+      "card-info": {
+        "Dosage": "40mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "160 INR/Pack"
+      }
+    },
+    {
+      "name": "10 MG Buspirone Hydrochloride Tablets IP",
+      "slug": "10-mg-buspirone-hydrochloride-tablets-ip",
+      "card-info": {
+        "Dosage": "10 Mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "50 INR/Pack"
+      }
+    },
+    {
+      "name": "30 MG Duloxetine Hydrochloride Tablets",
+      "slug": "30-mg-duloxetine-hydrochloride-tablets",
+      "card-info": {
+        "Dosage": "30mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "60 INR/Pack"
+      }
+    },
+    {
+      "name": "5 MG Atorvastatin Tablets",
+      "slug": "5-mg-atorvastatin-tablets",
+      "card-info": {
+        "Dosage": "5mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "3x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "700 INR/Pack"
+      }
+    },
+    {
+      "name": "5 MG Olanazapine Tablets IP",
+      "slug": "5-mg-olanazapine-tablets-ip",
+      "card-info": {
+        "Dosage": "5 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "700 INR/Pack"
+      }
+    },
+    {
+      "name": "40 MG Propranolol Hydrochloride Tablets IP",
+      "slug": "40-mg-propranolol-hydrochloride-tablets-ip",
+      "card-info": {
+        "Dosage": "40mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "90 INR/Pack"
+      }
+    },
+    {
+      "name": "Pregabalin And Nortriptyline Tablets",
+      "slug": "pregabalin-and-nortriptyline-tablets",
+      "card-info": {
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "1x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Cool place",
+        "Supply Ability": "4000 Per Month",
+        "Price": "1190 INR/Pack"
+      }
+    },
+    {
+      "name": "25 MG Nortriptyline Tablets IP",
+      "slug": "25-mg-nortriptyline-tablets-ip",
+      "card-info": {
+        "Dosage": "25mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "35 INR/Pack"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "120 MG  Capsules USP",
+    "slug": "120-mg-capsules-usp-10351451",
+    "specifications": {
+        "Origin of Medicine": "India",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Physical Form": "Tablets",
+        "Dosage": "120 MG",
+        "Storage Instructions": "Dry Place"
+    },
+    "information": {
+        "Minimum Order Quantity": "100 Units",
+        "Payment Terms": "Cash in Advance (CID)",
+        "Supply Ability": "5000 Units  Per Month",
+        "Delivery Time": "2-7 Days",
+        "Main Domestic Market": "All India"
+    },
+    "about": "120 MG Capsules USP is a general medicine that comes in a solid dosage form of tablets. Sourced from India, each capsule contains 120 MG of the active ingredient. It is recommended to store this medicine in a dry place to maintain its efficacy. This medicine is ideal for individuals who need a general medicine for various health conditions.",
+    "faq": [
+        {
+            "q": "What is the dosage of each capsule?",
+            "a": "Each capsule contains 120 MG of the active ingredient."
+        },
+        {
+            "q": "What is the physical form of this medicine?",
+            "a": "This medicine comes in a solid dosage form of tablets."
+        },
+        {
+            "q": "Where is this medicine sourced from?",
+            "a": "This medicine is sourced from India."
+        },
+        {
+            "q": "How should I store this medicine?",
+            "a": "It is recommended to store this medicine in a dry place."
+        },
+        {
+            "q": "What is the recommended use of this medicine?",
+            "a": "This medicine is a general medicine that can be used for various health conditions. Please consult your healthcare professional for proper use and dosage."
+        }
+    ],
+    "image_url": "images/120-mg-capsules-usp-10351451.jpg",
+    "category_slug": "weight-loss-medicine"
+}

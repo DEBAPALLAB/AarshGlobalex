@@ -1,0 +1,601 @@
+{
+  "title": "Pharmaceutical Tablets",
+  "slug": "pharmaceutical-tablets",
+  "description": [
+    "Explore our comprehensive range of Pharmaceutical Tablets, offered by our company, a leading exporter, supplier, and trader in the industry. With over 3.0 years of experience, we take pride in providing high-quality products to our clients. Our product list includes 60 MG Atomoxetine Hydrochloride Tablets, Metoprolol Succinate And Amlodipine Besylate Tablets IP, 0.25 MG Cabergoline Tablet IP, Glibenclamide And Metformin HCL Tablets IP, and 400 MG Imatinib Tablets IP.",
+    "Order our Pharmaceutical Tablets today and get access to their numerous advantages and features. Our tablets are perfect for treating various medical conditions and are highly effective. They are also elite and top-notch in quality, ensuring that our clients receive the best products in the market. Our tablets are popular among our clients, and we have a supply ability in the domestic market all over India."
+  ],
+  "medicines": [
+    {
+      "name": "300 MG Abacavir Tablets IP",
+      "slug": "300-mg-abacavir-tablets-ip",
+      "card-info": {
+        "Dosage": "300 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "30 tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "5 MG Amlodipine Tablets IP",
+      "slug": "5-mg-amlodipine-tablets-ip",
+      "card-info": {
+        "Dosage": "5mg",
+        "Dosage Guidelines": "As per doc. suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "259 INR/Pack"
+      }
+    },
+    {
+      "name": "60 MG Atomo xetine Hydrochloride Tablets",
+      "slug": "60-mg-atomo-xetine-hydrochloride-tablets",
+      "card-info": {
+        "Dosage": "60mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "420 INR/Pack"
+      }
+    },
+    {
+      "name": "40 MG Azilsartan Medoxomil Tablets",
+      "slug": "40-mg-azilsartan-medoxomil-tablets",
+      "card-info": {
+        "Dosage": "40mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "3x10 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "Metoprolol Succinate And Amlodipine Besylate Tablets IP",
+      "slug": "metoprolol-succinate-and-amlodipine-besylate-tablets-ip",
+      "card-info": {
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "63 INR/Pack"
+      }
+    },
+    {
+      "name": "400 MG Ibuprofen Tablets IP",
+      "slug": "400-mg-ibuprofen-tablets-ip",
+      "card-info": {
+        "Dosage": "400mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "100 MG Clom iphene  Tablets IP",
+      "slug": "100-mg-clom-iphene-tablets-ip",
+      "card-info": {
+        "Dosage": "100 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "575 INR/Pack"
+      }
+    },
+    {
+      "name": "Dicyclomine Hydrochloride And Paracetamol Tablets",
+      "slug": "dicyclomine-hydrochloride-and-paracetamol-tablets",
+      "card-info": {
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "15x4x10 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "150 INR/Pack"
+      }
+    },
+    {
+      "name": "Diclofenac And Paracetamol Tablets",
+      "slug": "diclofenac-and-paracetamol-tablets",
+      "card-info": {
+        "Dosage Form": "Tablets",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "50x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "0.25 MG Cabergoline Tablet IP",
+      "slug": "0-25-mg-cabergoline-tablet-ip",
+      "card-info": {
+        "Dosage": "0.25mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "1x4 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "Desogestrel And Ethinylestradiol Tablets USP",
+      "slug": "desogestrel-and-ethinylestradiol-tablets-usp",
+      "card-info": {
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "21 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "25 MG Clomifene Tablets IP",
+      "slug": "25-mg-clomifene-tablets-ip",
+      "card-info": {
+        "Dosage": "25mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "30 tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "580 INR/Pack"
+      }
+    },
+    {
+      "name": "5 MG Finasteride Tablets IP",
+      "slug": "5-mg-finasteride-tablets-ip",
+      "card-info": {
+        "Dosage": "5mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "30 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "120 INR/Pack"
+      }
+    },
+    {
+      "name": "1 MG Finasteride Tablets USP",
+      "slug": "1-mg-finasteride-tablets-usp",
+      "card-info": {
+        "Dosage": "1mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "140 INR/Pack"
+      }
+    },
+    {
+      "name": "10 MG Dapagliflozin Tablets",
+      "slug": "10-mg-dapagliflozin-tablets",
+      "card-info": {
+        "Dosage": "10mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "2X14 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "1605.8 INR/Pack"
+      }
+    },
+    {
+      "name": "Vildagliptin And Metformin HCL Tablets",
+      "slug": "vildagliptin-and-metformin-hcl-tablets",
+      "card-info": {
+        "Dosage": "50\\500mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "6x15 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "200 INR/Pack"
+      }
+    },
+    {
+      "name": "Glibenclamide And Metformin HCL Tablets IP",
+      "slug": "glibenclamide-and-metformin-hcl-tablets-ip",
+      "card-info": {
+        "Dosage Guidelines": "As per doc. suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "20x10 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "750 INR/Pack"
+      }
+    },
+    {
+      "name": "Dextromethorpan Hydrobromide Phenylephrine HCL Chlorpheniramine Maleate Tablets",
+      "slug": "dextromethorpan-hydrobromide-phenylephrine-hcl-chlorpheniramine-maleate-tablets",
+      "card-info": {
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "20x10 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "400 MG Imatinib Tablets IP",
+      "slug": "400-mg-imatinib-tablets-ip",
+      "card-info": {
+        "Dosage": "400mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "574 INR/Pack"
+      }
+    },
+    {
+      "name": "10 MG Escitalopram Tablets IP",
+      "slug": "10-mg-escitalopram-tablets-ip",
+      "card-info": {
+        "Dosage": "10 Mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "20x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "140 INR/Pack"
+      }
+    },
+    {
+      "name": "20 MG Escitalopram Tablets IP",
+      "slug": "20-mg-escitalopram-tablets-ip",
+      "card-info": {
+        "Dosage": "20 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "20x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "10 MG Bac lofen Tablets IP",
+      "slug": "10-mg-bac-lofen-tablets-ip",
+      "card-info": {
+        "Dosage": "10 Mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "20 MG Atorvastatin Tablets",
+      "slug": "20-mg-atorvastatin-tablets",
+      "card-info": {
+        "Dosage": "20 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "3*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "100 INR/Pack"
+      }
+    },
+    {
+      "name": "Atorvastatin And Clopidogrel Tablets",
+      "slug": "atorvastatin-and-clopidogrel-tablets",
+      "card-info": {
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "650 INR/Pack"
+      }
+    },
+    {
+      "name": "40 MG Atorvastatin Tablets IP",
+      "slug": "40-mg-atorvastatin-tablets-ip",
+      "card-info": {
+        "Dosage": "40 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10x3x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "250 INR/Pack"
+      }
+    },
+    {
+      "name": "650 MG Acetaminophen Tablets IP",
+      "slug": "650-mg-acetaminophen-tablets-ip",
+      "card-info": {
+        "Dosage": "650mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "20x10 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "20 MG Tada lafil Tablets",
+      "slug": "20-mg-tada-lafil-tablets",
+      "card-info": {
+        "Dosage": "20 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "1 x 4 tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "120 INR/Pack"
+      }
+    },
+    {
+      "name": "2.5 MG Methotrexate Tablets IP",
+      "slug": "2-5-mg-methotrexate-tablets-ip",
+      "card-info": {
+        "Dosage": "2.5 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "Olmesartan And Amlodipin Tablets",
+      "slug": "olmesartan-and-amlodipin-tablets",
+      "card-info": {
+        "Dosage": "20 & 5 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10x15 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "86 INR/Pack"
+      }
+    },
+    {
+      "name": "5 MG Linagliptin Tablets",
+      "slug": "5-mg-linagliptin-tablets",
+      "card-info": {
+        "Dosage": "5mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "90 Tablets",
+        "Physical Form": "Tablets",
+        "Salt Composition": "Linagliptin",
+        "Supply Ability": "5000 Per Month",
+        "Price": "470 INR/Pack"
+      }
+    },
+    {
+      "name": "40 MG Prednisolone Tablets IP",
+      "slug": "40-mg-prednisolone-tablets-ip",
+      "card-info": {
+        "Dosage": "40mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "50x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "600 MG Pirfenidone Tablets",
+      "slug": "600-mg-pirfenidone-tablets",
+      "card-info": {
+        "Dosage": "600mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "2x15 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "1100 INR/Pack"
+      }
+    },
+    {
+      "name": "1 MG Finasteride Tablets USP",
+      "slug": "1-mg-finasteride-tablets-usp",
+      "card-info": {
+        "Dosage": "1mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10*10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "1000 INR/Pack"
+      }
+    },
+    {
+      "name": "10 MG Rosuvastatin Tablets IP",
+      "slug": "10-mg-rosuvastatin-tablets-ip",
+      "card-info": {
+        "Dosage": "10mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10x15 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "350 INR/Pack"
+      }
+    },
+    {
+      "name": "145 MG Fenofibrate Tablets IP",
+      "slug": "145-mg-fenofibrate-tablets-ip",
+      "card-info": {
+        "Dosage": "145mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "15x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "175 INR/Pack"
+      }
+    },
+    {
+      "name": "5 MG Linagliptin Tablets",
+      "slug": "5-mg-linagliptin-tablets",
+      "card-info": {
+        "Dosage": "5mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "30 tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "460 INR/Pack"
+      }
+    },
+    {
+      "name": "10 MG Ezetimibe Tablets IP",
+      "slug": "10-mg-ezetimibe-tablets-ip",
+      "card-info": {
+        "Dosage": "10 Mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "20x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "Metformin Hydrochloride Prolonged Release And Glimepiride Tablets IP",
+      "slug": "metformin-hydrochloride-prolonged-release-and-glimepiride-tablets-ip",
+      "card-info": {
+        "Dosage": "1 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "10x15 Tablet",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "50 INR/Pack"
+      }
+    },
+    {
+      "name": "Sitagliptin Phosphate Monohydrate And Metformin Hydrochloride Tablets",
+      "slug": "sitagliptin-phosphate-monohydrate-and-metformin-hydrochloride-tablets",
+      "card-info": {
+        "Dosage": "50\\500mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "300 INR/Pack"
+      }
+    },
+    {
+      "name": "7.5 MG Zopiclone Tablets BP",
+      "slug": "7-5-mg-zopiclone-tablets-bp",
+      "card-info": {
+        "Dosage": "7.5 mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "2x5x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "25 MG Sertraline Tablets IP",
+      "slug": "25-mg-sertraline-tablets-ip",
+      "card-info": {
+        "Dosage": "25mg",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Pacakaging (Quantity Per Box)": "2x10 Tablets",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry & Cool place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "130 INR/Pack"
+      }
+    }
+  ]
+}
