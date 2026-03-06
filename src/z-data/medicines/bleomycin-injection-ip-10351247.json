@@ -1,0 +1,43 @@
+{
+    "name": "Bleomycin Injection IP",
+    "slug": "bleomycin-injection-ip-10351247",
+    "specifications": {
+        "Origin of Medicine": "India",
+        "Drug Type": "Injection",
+        "Physical Form": "Liquid",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Storage Instructions": "Dry & Cool place"
+    },
+    "information": {
+        "Minimum Order Quantity": "50 Packs",
+        "Payment Terms": "Cash in Advance (CID)",
+        "Supply Ability": "4000 Packs  Per Month",
+        "Delivery Time": "2-10 Days",
+        "Main Domestic Market": "All India"
+    },
+    "about": "Bleomycin Injection IP is a liquid drug type that is used at the suggestion of a doctor. It is commonly used in the treatment of various types of cancers, including Hodgkins lymphoma, testicular cancer, and squamous cell carcinoma. The medication is administered through injection and should be stored in a dry and cool place. This medicine is manufactured in India and is available for export, supply, and trade.",
+    "faq": [
+        {
+            "q": "What is Bleomycin Injection IP used for?",
+            "a": "Bleomycin Injection IP is used in the treatment of various types of cancers, including Hodgkins lymphoma, testicular cancer, and squamous cell carcinoma."
+        },
+        {
+            "q": "How is Bleomycin Injection IP administered?",
+            "a": "Bleomycin Injection IP is administered through injection."
+        },
+        {
+            "q": "What are the dosage guidelines for Bleomycin Injection IP?",
+            "a": "The dosage guidelines for Bleomycin Injection IP should be followed as per the suggestion of a doctor."
+        },
+        {
+            "q": "Where is Bleomycin Injection IP manufactured?",
+            "a": "Bleomycin Injection IP is manufactured in India."
+        },
+        {
+            "q": "What are the storage instructions for Bleomycin Injection IP?",
+            "a": "Bleomycin Injection IP should be stored in a dry and cool place."
+        }
+    ],
+    "image_url": "images/bleomycin-injection-ip-10351247.jpg",
+    "category_slug": "pharmaceutical-injections"
+}

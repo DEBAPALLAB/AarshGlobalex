@@ -1,0 +1,102 @@
+{
+  "title": "Veterinary Medicines",
+  "slug": "veterinary-medicines",
+  "description": [
+    "Unlock the advantages of our Veterinary Medicines, as we bring to you a superb range of products that cater to the needs of your beloved pets. As an exporter, supplier, and trader, we take pride in offering elite quality medicines that are prime in their effectiveness and safety. Our product list includes 100 MG Megaflex Powder, 75 MG Carprofen Chewable Tablets, 50 MG Cyclosporine Capsules IP, Praziquantel Pyrantel Pamoate And Fabantel Tablets, and 15 ML Pyrantel Pamoate And Febantel Suspension. These medicines are designed to provide the best possible care for your pets, ensuring their well-being and health.",
+    "Our hot deals and popular products are highly sought after in the market, and we take pride in our supply ability in the domestic market, which covers all of India. Our medicines are formulated with the highest quality ingredients, ensuring that your pets receive the best possible care. With over 3.0 years of experience in the field of veterinary medicines, we have established ourselves as a trusted name in the industry.",
+    "Some of the advantages and features of our Veterinary Medicines include their effectiveness in treating a wide range of ailments, their safety for use in pets, their ease of administration, their affordability, and their availability in a variety of forms. Whether you are looking for tablets, capsules, or suspensions, we have a product that will meet your needs. So why wait? Find the perfect medicine for your pet today and unlock the benefits of our Veterinary Medicines!"
+  ],
+  "medicines": [
+    {
+      "name": "100 MG Megaflex Powder",
+      "slug": "100-mg-megaflex-powder-10351372",
+      "card-info": {
+        "Ingredients": "Chemicals",
+        "Physical Form": "Powder",
+        "Recommended For": "Dogs, Cats",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "500 INR/Kilograms"
+      }
+    },
+    {
+      "name": "Fiprofort Plus For Cats",
+      "slug": "fiprofort-plus-for-cats-10351373",
+      "card-info": {
+        "Ingredients": "Chemicals",
+        "Physical Form": "Liquid",
+        "Recommended For": "Cats",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "375 INR/Unit"
+      }
+    },
+    {
+      "name": "75 MG Carprofen Chewable Tablets",
+      "slug": "75-mg-carprofen-chewable-tablets-10351374",
+      "card-info": {
+        "Medicine Type": "Herbal Veterinary Drug",
+        "Physical Form": "Tablets",
+        "Recommended For": "Dogs",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "231 INR/Unit"
+      }
+    },
+    {
+      "name": "50 MG Cyclosporine Capsules IP",
+      "slug": "50-mg-cyclosporine-capsules-ip-10351375",
+      "card-info": {
+        "Ingredients": "Chemicals",
+        "Physical Form": "Capsules",
+        "Recommended For": "Dogs",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "270 INR/Unit"
+      }
+    },
+    {
+      "name": "Praziquantel Pyrantel Pamoate And Fabantel Tablets",
+      "slug": "praziquantel-pyrantel-pamoate-and-fabantel-tablets-10351376",
+      "card-info": {
+        "Ingredients": "Chemicals",
+        "Physical Form": "Tablets",
+        "Recommended For": "Dogs",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "350 INR/Unit"
+      }
+    },
+    {
+      "name": "15 ML Pyrantel Pamoate And Febantel Suspension",
+      "slug": "15-ml-pyrantel-pamoate-and-febantel-suspension-10351377",
+      "card-info": {
+        "Ingredients": "Chemicals",
+        "Physical Form": "Liquid",
+        "Recommended For": "Dogs",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "91 INR/Unit"
+      }
+    },
+    {
+      "name": "S-Adenosyl Methionine And Silybin Tablets",
+      "slug": "s-adenosyl-methionine-and-silybin-tablets-10351378",
+      "card-info": {
+        "Ingredients": "Chemicals",
+        "Physical Form": "Tablets",
+        "Recommended For": "Dogs, Cats",
+        "Storage Instructions": "Dry place",
+        "Treatments & Functions": "Veterinary",
+        "Supply Ability": "5000 Per Month",
+        "Price": "391 INR/Unit"
+      }
+    }
+  ]
+}

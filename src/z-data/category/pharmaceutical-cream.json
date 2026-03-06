@@ -1,0 +1,39 @@
+{
+  "title": "Pharmaceutical Cream",
+  "slug": "pharmaceutical-cream",
+  "description": [
+    "Discover the exceptional quality of our Pharmaceutical Cream. As an exporter, supplier, and trader, we offer a range of top-notch creams that cater to various skin conditions. Our product list includes the 15 GM Fusidic Acid Clotrimazole And Clobetasol Propionate Cream and the 30 GM Monobenzone Cream USP, both of which are best-sellers in the market. Our creams are peerless in terms of quality and effectiveness, making them incomparable to other products in the market.",
+    "One of the advantages of our Pharmaceutical Cream is its special formulation that targets specific skin issues. Our creams are popular among dermatologists and patients alike, making them a must-have in any skincare routine. Another advantage is our supply ability in the domestic market, which covers all of India. With over 3.0 years of experience in the industry, we have established ourselves as a trusted brand that delivers results."
+  ],
+  "medicines": [
+    {
+      "name": "30 GM Monobenzone Cream USP",
+      "slug": "30-gm-monobenzone-cream-usp-10351413",
+      "card-info": {
+        "Application": "Hospital",
+        "Dosage Guidelines": "As per suggesstion",
+        "Formulations Form": "Cream",
+        "Formulations Type": "General Drugs",
+        "Purity": "99%",
+        "Storage Instructions": "Dry Place",
+        "Treatments & Functions": "Ointment",
+        "Supply Ability": "5000 Per Month",
+        "Price": "170 INR/Unit"
+      }
+    },
+    {
+      "name": "15 GM Fusidic Acid Clotrimazole And Clobetasol Propionate Cream",
+      "slug": "15-gm-fusidic-acid-clotrimazole-and-clobetasol-propionate-cream-10351414",
+      "card-info": {
+        "Application": "Hospital",
+        "Dosage Guidelines": "As per suggesstion",
+        "Formulations Form": "Cream",
+        "Purity": "99%",
+        "Storage Instructions": "Dry Place",
+        "Treatments & Functions": "Ointment",
+        "Supply Ability": "5000 Per Month",
+        "Price": "129 INR/Unit"
+      }
+    }
+  ]
+}

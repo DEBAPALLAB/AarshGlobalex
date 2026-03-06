@@ -1,0 +1,50 @@
+{
+  "title": "Pain Killers",
+  "slug": "pain-killers",
+  "description": [
+    "Embrace the reliability of our Pain Killers, the finest and most effective solution for all your pain-related problems. As an exporter, supplier, and trader, we offer a wide range of painkillers, including 15 MG Ruxolitinib Tablets, 200 MG Tapentadol Tablets, Glimepiride And Metformin Hydrochloride SR Tablets, and Ibuprofen And Paracetamol Dispersible Tablets. Our painkillers come with five advantages and features that are incomparable to any other product in the market. Firstly, they provide instant savings by relieving pain quickly and effectively. Secondly, they are the top choice of doctors and healthcare professionals due to their superb quality and effectiveness. Thirdly, they are safe and reliable, ensuring that you get the best possible results without any side effects. Fourthly, they are available in a wide range of strengths and dosages, making them suitable for all types of pain. Lastly, our supply ability in the domestic market is all over India, ensuring that you can get our products wherever you are. With over 3.0 years of experience in the industry, we guarantee that our painkillers are the special solution you need to get rid of all your pain-related problems."
+  ],
+  "medicines": [
+    {
+      "name": "Glimepiride And Metformin Hydrochloride SR Tablets",
+      "slug": "glimepiride-and-metformin-hydrochloride-sr-tablets-10351383",
+      "card-info": {
+        "Age Group": "Adult",
+        "Color": "White",
+        "Ingredients": "Chemicals",
+        "Physical Form": "Tablets",
+        "Product Type": "General Medicines",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "91 INR/Unit"
+      }
+    },
+    {
+      "name": "Ibuprofen And Paracetamol Dispersible Tablets",
+      "slug": "ibuprofen-and-paracetamol-dispersible-tablets-10351384",
+      "card-info": {
+        "Appearance": "Solid",
+        "Color": "White",
+        "Ingredients": "Chemicals",
+        "Physical Form": "Tablets",
+        "Product Type": "General Medicines",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "150 INR/Unit"
+      }
+    },
+    {
+      "name": "200 MG Tablets",
+      "slug": "200-mg-tablets-10351386",
+      "card-info": {
+        "Color": "White",
+        "Ingredients": "Chemicals",
+        "Physical Form": "Tablets",
+        "Product Type": "General Medicines",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "350 INR/Unit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Birth Control Pill",
+  "slug": "birth-control-pill",
+  "description": [
+    "Introducing our high-performance Birth Control Pill, available in two variants - 40 MG Desogestrel And Ethinylestradiol Tablets USP and Levonorgestrel Tablets IP. With over 3.0 years of experience in the market, our Birth Control Pill is the best choice for women looking for impeccable protection against unwanted pregnancy. Our spectacular product is designed to provide elite protection with its unique combination of hormones that prevent ovulation and thicken cervical mucus to prevent sperm from reaching the egg. Our Birth Control Pill is popular among women of all ages and is currently trending in the market due to its effectiveness and ease of use. We offer the best price for our product, making it accessible to women across the country. Our supply ability in the domestic market is all India, ensuring that women from all corners of the country can benefit from our product. Choose our Birth Control Pill for a worry-free and hassle-free experience."
+  ],
+  "medicines": [
+    {
+      "name": "40 MG Desogestrel And Ethinylestradiol Tablets USP",
+      "slug": "40-mg-desogestrel-and-ethinylestradiol-tablets-usp-10351460",
+      "card-info": {
+        "Dosage": "As per suggestion",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "Levonorgestrel Tablets IP",
+      "slug": "levonorgestrel-tablets-ip-10351461",
+      "card-info": {
+        "Dosage": "As per suggestion",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Suitable For": "Women",
+        "Supply Ability": "5000 Per Month"
+      }
+    }
+  ]
+}

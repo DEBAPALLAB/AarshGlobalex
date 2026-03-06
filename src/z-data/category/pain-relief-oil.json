@@ -1,0 +1,53 @@
+{
+  "title": "Pain Relief Oil",
+  "slug": "pain-relief-oil",
+  "description": [
+    "Embrace the reliability of our Pain Relief Oil, a must-have for anyone seeking relief from joint and muscle pain. As an exporter, supplier, and trader, we offer a range of top-quality pain relief oils, including Dr Ortho Pain Relief Oil, Amrith Noni Pain Relief Oil, and Zandu Ortho Vedic Oil. Our Pain Relief Oil is in high demand in the domestic market, with a supply ability of All India.",
+    "Our Pain Relief Oil is a new release that boasts five extraordinary advantages and features. Firstly, it provides immaculate relief from joint and muscle pain, making it incomparable to other pain relief oils on the market. Secondly, it is made from natural ingredients, ensuring that it is safe for use and free from any harmful chemicals. Thirdly, it is easy to apply and absorbs quickly, making it convenient for daily use. Fourthly, it has a pleasant fragrance that leaves you feeling refreshed and rejuvenated. Lastly, it is affordable, making it accessible to everyone seeking relief from pain.",
+    "Our Pain Relief Oil is suitable for anyone experiencing joint and muscle pain, including athletes, the elderly, and those with arthritis. It is a reliable and effective solution for pain relief, providing long-lasting results. Try our Pain Relief Oil today and experience the extraordinary benefits for yourself."
+  ],
+  "medicines": [
+    {
+      "name": "Dr Ortho Pain Relief Oil",
+      "slug": "dr-ortho-pain-relief-oil-10351439",
+      "card-info": {
+        "Age Group": "Suitable For All Ages",
+        "Color": "Black",
+        "Ingredients": "Chemicals",
+        "Physical Form": "Liquid",
+        "Product Type": "External Use Drugs",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "350 INR/Unit"
+      }
+    },
+    {
+      "name": "Amrith Noni Pain Relief Oil",
+      "slug": "amrith-noni-pain-relief-oil-10351440",
+      "card-info": {
+        "Age Group": "Suitable For All Ages",
+        "Ingredients": "Chemicals",
+        "Physical Form": "Liquid",
+        "Product Type": "External Use Drugs",
+        "Storage Instructions": "Dry Place",
+        "Weight": "50 Milligram (mg)",
+        "Supply Ability": "5000 Per Month",
+        "Price": "200 INR/Unit"
+      }
+    },
+    {
+      "name": "Zandu Ortho Vedic Oil",
+      "slug": "zandu-ortho-vedic-oil-10351441",
+      "card-info": {
+        "Age Group": "Suitable For All Ages",
+        "Color": "Red",
+        "Ingredients": "Chemicals",
+        "Physical Form": "Liquid",
+        "Product Type": "External Use Drugs",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month",
+        "Price": "450 INR/Unit"
+      }
+    }
+  ]
+}

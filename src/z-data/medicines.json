@@ -1,0 +1,1002 @@
+{
+    "medicines": [
+        {
+            "name": "300 MG Abacavir Tablets IP",
+            "slug": "300-mg-abacavir-tablets-ip-10351204.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "5 MG Amlodipine Tablets IP",
+            "slug": "5-mg-amlodipine-tablets-ip-10351205.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "60 MG Atomo xetine Hydrochloride Tablets",
+            "slug": "60-mg-atomo-xetine-hydrochloride-tablets-10351206.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "40 MG Azilsartan Medoxomil Tablets",
+            "slug": "40-mg-azilsartan-medoxomil-tablets-10351207.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Metoprolol Succinate And Amlodipine Besylate Tablets IP",
+            "slug": "metoprolol-succinate-and-amlodipine-besylate-tablets-ip-10351208.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "400 MG Ibuprofen Tablets IP",
+            "slug": "400-mg-ibuprofen-tablets-ip-10351209.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "100 MG Clom iphene  Tablets IP",
+            "slug": "100-mg-clom-iphene-tablets-ip-10351210.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Dicyclomine Hydrochloride And Paracetamol Tablets",
+            "slug": "dicyclomine-hydrochloride-and-paracetamol-tablets-10351211.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Diclofenac And Paracetamol Tablets",
+            "slug": "diclofenac-and-paracetamol-tablets-10351212.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "0.25 MG Cabergoline Tablet IP",
+            "slug": "0-25-mg-cabergoline-tablet-ip-10351213.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Desogestrel And Ethinylestradiol Tablets USP",
+            "slug": "desogestrel-and-ethinylestradiol-tablets-usp-10351214.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "25 MG Clomifene Tablets IP",
+            "slug": "25-mg-clomifene-tablets-ip-10351215.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "5 MG Finasteride Tablets IP",
+            "slug": "5-mg-finasteride-tablets-ip-10351216.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "1 MG Finasteride Tablets USP",
+            "slug": "1-mg-finasteride-tablets-usp-10351217.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "10 MG Dapagliflozin Tablets",
+            "slug": "10-mg-dapagliflozin-tablets-10351218.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Vildagliptin And Metformin HCL Tablets",
+            "slug": "vildagliptin-and-metformin-hcl-tablets-10351219.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Glibenclamide And Metformin HCL Tablets IP",
+            "slug": "glibenclamide-and-metformin-hcl-tablets-ip-10351220.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Dextromethorpan Hydrobromide Phenylephrine HCL Chlorpheniramine Maleate Tablets",
+            "slug": "dextromethorpan-hydrobromide-phenylephrine-hcl-chlorpheniramine-maleate-tablets-10351221.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "400 MG Imatinib Tablets IP",
+            "slug": "400-mg-imatinib-tablets-ip-10351222.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "10 MG Escitalopram Tablets IP",
+            "slug": "10-mg-escitalopram-tablets-ip-10351223.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "20 MG Escitalopram Tablets IP",
+            "slug": "20-mg-escitalopram-tablets-ip-10351224.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "10 MG Bac lofen Tablets IP",
+            "slug": "10-mg-bac-lofen-tablets-ip-10351225.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "20 MG Atorvastatin Tablets",
+            "slug": "20-mg-atorvastatin-tablets-10351226.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Atorvastatin And Clopidogrel Tablets",
+            "slug": "atorvastatin-and-clopidogrel-tablets-10351227.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "40 MG Atorvastatin Tablets IP",
+            "slug": "40-mg-atorvastatin-tablets-ip-10351228.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "650 MG Acetaminophen Tablets IP",
+            "slug": "650-mg-acetaminophen-tablets-ip-10351229.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "20 MG Tada lafil Tablets",
+            "slug": "20-mg-tada-lafil-tablets-10351230.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "2.5 MG Methotrexate Tablets IP",
+            "slug": "2-5-mg-methotrexate-tablets-ip-10351231.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Olmesartan And Amlodipin Tablets",
+            "slug": "olmesartan-and-amlodipin-tablets-10351232.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "5 MG Linagliptin Tablets",
+            "slug": "5-mg-linagliptin-tablets-10351233.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "40 MG Prednisolone Tablets IP",
+            "slug": "40-mg-prednisolone-tablets-ip-10351234.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "600 MG Pirfenidone Tablets",
+            "slug": "600-mg-pirfenidone-tablets-10351235.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "1 MG Finasteride Tablets USP",
+            "slug": "1-mg-finasteride-tablets-usp-10351236.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "10 MG Rosuvastatin Tablets IP",
+            "slug": "10-mg-rosuvastatin-tablets-ip-10351237.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "145 MG Fenofibrate Tablets IP",
+            "slug": "145-mg-fenofibrate-tablets-ip-10351238.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "5 MG Linagliptin Tablets",
+            "slug": "5-mg-linagliptin-tablets-10351239.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "10 MG Ezetimibe Tablets IP",
+            "slug": "10-mg-ezetimibe-tablets-ip-10351240.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Metformin Hydrochloride Prolonged Release And Glimepiride Tablets IP",
+            "slug": "metformin-hydrochloride-prolonged-release-and-glimepiride-tablets-ip-10351241.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "Sitagliptin Phosphate Monohydrate And Metformin Hydrochloride Tablets",
+            "slug": "sitagliptin-phosphate-monohydrate-and-metformin-hydrochloride-tablets-10351242.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "7.5 MG Zopiclone Tablets BP",
+            "slug": "7-5-mg-zopiclone-tablets-bp-10351243.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "25 MG Sertraline Tablets IP",
+            "slug": "25-mg-sertraline-tablets-ip-10351244.html",
+            "category_slug": "pharmaceutical-tablets"
+        },
+        {
+            "name": "100 MG Bevacizumab Injection",
+            "slug": "100-mg-bevacizumab-injection-10351245.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "100 MG Bendamustine Hydrochloride For Injection",
+            "slug": "100-mg-bendamustine-hydrochloride-for-injection-10351246.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Bleomycin Injection IP",
+            "slug": "bleomycin-injection-ip-10351247.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "50 MG Caspofungin Acetate For Injection",
+            "slug": "50-mg-caspofungin-acetate-for-injection-10351248.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "1 GM Cyclophosphamide Injection IP",
+            "slug": "1-gm-cyclophosphamide-injection-ip-10351249.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "500 MG Cyclophosphamide Injection IP",
+            "slug": "500-mg-cyclophosphamide-injection-ip-10351250.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "50 MG Decitabine For Injection",
+            "slug": "50-mg-decitabine-for-injection-10351251.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "250 MG Fulvestrant Injection",
+            "slug": "250-mg-fulvestrant-injection-10351252.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "200 MG Gemcitabine Injection IP",
+            "slug": "200-mg-gemcitabine-injection-ip-10351253.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "600 MG Glutathione For Injection",
+            "slug": "600-mg-glutathione-for-injection-10351254.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Highly Purified Chorionic Gonadotrophin Injection 2000 IU",
+            "slug": "highly-purified-chorionic-gonadotrophin-injection-2000-iu-10351255.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "3 ML Insulin Lispro Injection IP",
+            "slug": "3-ml-insulin-lispro-injection-ip-10351256.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "1 GM Imipenem And Cilastatin Injection IP",
+            "slug": "1-gm-imipenem-and-cilastatin-injection-ip-10351257.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "250 MG Imipenem And Cilastatin Injection IP",
+            "slug": "250-mg-imipenem-and-cilastatin-injection-ip-10351258.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "500 MG Imipenem And Cilastatin Injection IP",
+            "slug": "500-mg-imipenem-and-cilastatin-injection-ip-10351259.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "100 MG Infliximab Injection",
+            "slug": "100-mg-infliximab-injection-10351260.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Irinotecan Injection IP",
+            "slug": "irinotecan-injection-ip-10351261.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "22.50 MG Leuprolide Acetate For Injection",
+            "slug": "22-50-mg-leuprolide-acetate-for-injection-10351262.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "250 MG Paclitaxel Injection IP",
+            "slug": "250-mg-paclitaxel-injection-ip-10351263.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Zoledronic Acid Injection",
+            "slug": "zoledronic-acid-injection-10351264.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "300 MG Paclitaxel Injection IP",
+            "slug": "300-mg-paclitaxel-injection-ip-10351266.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "5 ML Palonosetron Hydrochloride Injection",
+            "slug": "5-ml-palonosetron-hydrochloride-injection-10351268.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "1.0 MG Tacrolimus Capsules IP",
+            "slug": "1-0-mg-tacrolimus-capsules-ip-10351270.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Piperacillin And Tazobactam Injection IP",
+            "slug": "piperacillin-and-tazobactam-injection-ip-10351271.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Piperacillin And Tazobactam For Injection USP",
+            "slug": "piperacillin-and-tazobactam-for-injection-usp-10351272.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "1 GM Vancomycin Hydrochloride For Intravenous Infusion IP",
+            "slug": "1-gm-vancomycin-hydrochloride-for-intravenous-infusion-ip-10351273.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "50 MG Oxaliplatin For Injection USP",
+            "slug": "50-mg-oxaliplatin-for-injection-usp-10351274.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "750 MCG Teriparatide Injection",
+            "slug": "750-mcg-teriparatide-injection-10351276.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "Chorionic Gonadotrophin Injection IP",
+            "slug": "chorionic-gonadotrophin-injection-ip-10351277.html",
+            "category_slug": "pharmaceutical-injections"
+        },
+        {
+            "name": "100 MG Cyclosporine Capsules IP",
+            "slug": "100-mg-cyclosporine-capsules-ip-10351279.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "40 MG Enzalutamide Capsules",
+            "slug": "40-mg-enzalutamide-capsules-10351280.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "250 MG Cycloserine Capsules IP",
+            "slug": "250-mg-cycloserine-capsules-ip-10351281.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "100 MG Etoposide Capsules IP",
+            "slug": "100-mg-etoposide-capsules-ip-10351282.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "100 MG Itraconazole Capsules",
+            "slug": "100-mg-itraconazole-capsules-10351283.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "200 MG Fenofibrate Capsules IP",
+            "slug": "200-mg-fenofibrate-capsules-ip-10351284.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "25 MG Indomethacin Extended-Release Capsules USP",
+            "slug": "25-mg-indomethacin-extended-release-capsules-usp-10351285.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "450 MG Pregabalin Capsules IP",
+            "slug": "450-mg-pregabalin-capsules-ip-10351286.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "300 MG Pregabalin Capsules IP",
+            "slug": "300-mg-pregabalin-capsules-ip-10351287.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "120 MG Capsules USP",
+            "slug": "120-mg-capsules-usp-10351288.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "2 MG Tacrolimus Capsules IP",
+            "slug": "2-mg-tacrolimus-capsules-ip-10351289.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "1 MG Pomalidomide Capsules",
+            "slug": "1-mg-pomalidomide-capsules-10351290.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "300 MG Pregabalin Capsules IP",
+            "slug": "300-mg-pregabalin-capsules-ip-10351291.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "0.5 MG Tacrolimus Capsules IP",
+            "slug": "0-5-mg-tacrolimus-capsules-ip-10351292.html",
+            "category_slug": "pharmaceutical-capsules"
+        },
+        {
+            "name": "250 MG Abiraterone Acetate Tablets",
+            "slug": "250-mg-abiraterone-acetate-tablets-10351293.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "Memantine Hydrochloride Tablets IP",
+            "slug": "memantine-hydrochloride-tablets-ip-10351294.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "2 MG Melphalan Tablets IP",
+            "slug": "2-mg-melphalan-tablets-ip-10351295.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "Anastrozole Tablets",
+            "slug": "anastrozole-tablets-10351296.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "100 MG Erlotinib Tablets IP",
+            "slug": "100-mg-erlotinib-tablets-ip-10351297.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "Anastrozole Tablets",
+            "slug": "anastrozole-tablets-10351298.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "2.5 MG Tablets IP",
+            "slug": "2-5-mg-tablets-ip-10351299.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "250 MG Gefitinib Tablets IP",
+            "slug": "250-mg-gefitinib-tablets-ip-10351300.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "400 MG Imatinib Tablets IP",
+            "slug": "400-mg-imatinib-tablets-ip-10351301.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "200 MG Pirfenidone Tablets IP",
+            "slug": "200-mg-pirfenidone-tablets-ip-10351303.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "400 MG Pirfenidone Tablets IP",
+            "slug": "400-mg-pirfenidone-tablets-ip-10351304.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "200 MG Sorafenib Tablets",
+            "slug": "200-mg-sorafenib-tablets-10351305.html",
+            "category_slug": "anti-cancer-tablets"
+        },
+        {
+            "name": "40 MG Azilsartan Medoxomil Tablets",
+            "slug": "40-mg-azilsartan-medoxomil-tablets-10351306.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "Rosuvastatin As pirin And Clopidogrel Capsules",
+            "slug": "rosuvastatin-as-pirin-and-clopidogrel-capsules-10351307.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "25 MG Hydrochlorothiazide Tablets IP",
+            "slug": "25-mg-hydrochlorothiazide-tablets-ip-10351308.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "20 MG Furosemide Tablets",
+            "slug": "20-mg-furosemide-tablets-10351309.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "100 MG Metoprolol Succinate Extended-Release Capsules",
+            "slug": "100-mg-metoprolol-succinate-extended-release-capsules-10351310.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "Azilsartan Medoxomil And Chlorthalidone Tablets",
+            "slug": "azilsartan-medoxomil-and-chlorthalidone-tablets-10351311.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "5 MG Nebivolol Tablets IP",
+            "slug": "5-mg-nebivolol-tablets-ip-10351312.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "20 MG Olmesartan Medoxomil Tablets IP",
+            "slug": "20-mg-olmesartan-medoxomil-tablets-ip-10351313.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "20 MG Rosuvastatin Tablets IP",
+            "slug": "20-mg-rosuvastatin-tablets-ip-10351314.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "40 MG Telmisartan And Chlorthalidone Tablets",
+            "slug": "40-mg-telmisartan-and-chlorthalidone-tablets-10351315.html",
+            "category_slug": "hypertension-medicine"
+        },
+        {
+            "name": "40 MG Ato Moxetine Hydrochloride Tablets",
+            "slug": "40-mg-ato-moxetine-hydrochloride-tablets-10351316.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "10 MG Buspirone Hydrochloride Tablets IP",
+            "slug": "10-mg-buspirone-hydrochloride-tablets-ip-10351317.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "30 MG Duloxetine Hydrochloride Tablets",
+            "slug": "30-mg-duloxetine-hydrochloride-tablets-10351318.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "5 MG Atorvastatin Tablets",
+            "slug": "5-mg-atorvastatin-tablets-10351319.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "5 MG Olanazapine Tablets IP",
+            "slug": "5-mg-olanazapine-tablets-ip-10351320.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "40 MG Propranolol Hydrochloride Tablets IP",
+            "slug": "40-mg-propranolol-hydrochloride-tablets-ip-10351321.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "Pregabalin And Nortriptyline Tablets",
+            "slug": "pregabalin-and-nortriptyline-tablets-10351322.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "25 MG Nortriptyline Tablets IP",
+            "slug": "25-mg-nortriptyline-tablets-ip-10351323.html",
+            "category_slug": "anti-depressant-tablets-"
+        },
+        {
+            "name": "5 ML Brimonidine Tartrate Eye Drops IP",
+            "slug": "5-ml-brimonidine-tartrate-eye-drops-ip-10351324.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "3 ML Bimatoprost Ophthalmic Eye Drops",
+            "slug": "3-ml-bimatoprost-ophthalmic-eye-drops-10351325.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "5 ML Cyclopentolate Eye Drops IP",
+            "slug": "5-ml-cyclopentolate-eye-drops-ip-10351326.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "5 ML Timolol Maleate Eye Drops IP",
+            "slug": "5-ml-timolol-maleate-eye-drops-ip-10351329.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "3 ML Bimatoprost Ophthalmic Eye Drops",
+            "slug": "3-ml-bimatoprost-ophthalmic-eye-drops-10351330.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "3 ML Travoprost Eye Drops IP",
+            "slug": "3-ml-travoprost-eye-drops-ip-10351332.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "Bromfenac Ophthalmic Eye Drop",
+            "slug": "bromfenac-ophthalmic-eye-drop-10351334.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "5 ML  Flurbiprofen Eye Drops IP",
+            "slug": "5-ml-flurbiprofen-eye-drops-ip-10351335.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "5 ML Ofloxacin Ophthalmic Eye Drop",
+            "slug": "5-ml-ofloxacin-ophthalmic-eye-drop-10351336.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "2.5 ML Travoprost  Ophthalmic Eye Drop",
+            "slug": "2-5-ml-travoprost-ophthalmic-eye-drop-10351337.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "5 ML Olopatadine Hydrochloride Ophthalmic Eye Drop",
+            "slug": "5-ml-olopatadine-hydrochloride-ophthalmic-eye-drop-10351338.html",
+            "category_slug": "eye-drops"
+        },
+        {
+            "name": "Liraglutide Antidiabetic",
+            "slug": "liraglutide-antidiabetic-10463760.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "Insulin Glargine Injection",
+            "slug": "insulin-glargine-injection-10351344.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "5 MG Cilnidipine Tablets IP",
+            "slug": "5-mg-cilnidipine-tablets-ip-10351345.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "20 MG Trimetazidine Difydrochloride Tablets",
+            "slug": "20-mg-trimetazidine-difydrochloride-tablets-10351346.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "50 MG Acarbose Tablets IP",
+            "slug": "50-mg-acarbose-tablets-ip-10351347.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "80 MG Gliclazide Tablets",
+            "slug": "80-mg-gliclazide-tablets-10351348.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "Gliclazide And Metformin Hydrochloride Tablets",
+            "slug": "gliclazide-and-metformin-hydrochloride-tablets-10351349.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "Glimepiride And Metformin Hydrochloride SR Tablets",
+            "slug": "glimepiride-and-metformin-hydrochloride-sr-tablets-10351350.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "Glimepiride And Metformin Hydrochloride Sustained Release Tablets",
+            "slug": "glimepiride-and-metformin-hydrochloride-sustained-release-tablets-10351351.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "50 MG Acarbose Tablets IP",
+            "slug": "50-mg-acarbose-tablets-ip-10351352.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "Dapagliflozin And Sitagliptine Phosphate Tablets",
+            "slug": "dapagliflozin-and-sitagliptine-phosphate-tablets-10351353.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "50 MG Vildagliptin Tablets",
+            "slug": "50-mg-vildagliptin-tablets-10351354.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "Vildagliptin And Metformin HCL Tablets",
+            "slug": "vildagliptin-and-metformin-hcl-tablets-10351355.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "100 MG Vildagliptin Sustained Release Tablets",
+            "slug": "100-mg-vildagliptin-sustained-release-tablets-10351356.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "0.2 MG Voglibose Tablets IP",
+            "slug": "0-2-mg-voglibose-tablets-ip-10351357.html",
+            "category_slug": "antidiabetic-medicine"
+        },
+        {
+            "name": "20 GM Candid Cream IP",
+            "slug": "20-gm-candid-cream-ip-10351358.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "Azelaic Acid Cream 20% W-W",
+            "slug": "azelaic-acid-cream-20-w-w-10351359.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "20 GM Hydroquinone Tretinoin And Mometasone Cream",
+            "slug": "20-gm-hydroquinone-tretinoin-and-mometasone-cream-10351360.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "Topical Anesthetic Cream",
+            "slug": "topical-anesthetic-cream-10351361.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "30 GM Lignocaine Hydrochloride Gel USP",
+            "slug": "30-gm-lignocaine-hydrochloride-gel-usp-10351362.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "20 GM Hydroquinone Tretinoin And Mometasone Furoate Cream",
+            "slug": "20-gm-hydroquinone-tretinoin-and-mometasone-furoate-cream-10351363.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "Hydroquinone Cream USP",
+            "slug": "hydroquinone-cream-usp-10351364.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "15 GM Tretinoin Microsphere Gel 0.1% W-W",
+            "slug": "15-gm-tretinoin-microsphere-gel-0-1-w-w-10351365.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "0.025% Tretinoin Cream USP",
+            "slug": "0-025-tretinoin-cream-usp-10351366.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "0.05% Tretinoin Cream USP",
+            "slug": "0-05-tretinoin-cream-usp-10351367.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "10 GM Lipid Based Tacrolimus Ointment  0.1% W-W",
+            "slug": "10-gm-lipid-based-tacrolimus-ointment-0-1-w-w-10351368.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "20 GM Tazarotene Gel 0.05% W-W",
+            "slug": "20-gm-tazarotene-gel-0-05-w-w-10351369.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "Tretinoin Cream USP",
+            "slug": "tretinoin-cream-usp-10351370.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "Hydroquinone And Tretinoin Fluocinolone Acetonide Cream USP",
+            "slug": "hydroquinone-and-tretinoin-fluocinolone-acetonide-cream-usp-10351371.html",
+            "category_slug": "skin-ointment"
+        },
+        {
+            "name": "100 MG Megaflex Powder",
+            "slug": "100-mg-megaflex-powder-10351372.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "Fiprofort Plus For Cats",
+            "slug": "fiprofort-plus-for-cats-10351373.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "75 MG Carprofen Chewable Tablets",
+            "slug": "75-mg-carprofen-chewable-tablets-10351374.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "50 MG Cyclosporine Capsules IP",
+            "slug": "50-mg-cyclosporine-capsules-ip-10351375.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "Praziquantel Pyrantel Pamoate And Fabantel Tablets",
+            "slug": "praziquantel-pyrantel-pamoate-and-fabantel-tablets-10351376.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "15 ML Pyrantel Pamoate And Febantel Suspension",
+            "slug": "15-ml-pyrantel-pamoate-and-febantel-suspension-10351377.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "S-Adenosyl Methionine And Silybin Tablets",
+            "slug": "s-adenosyl-methionine-and-silybin-tablets-10351378.html",
+            "category_slug": "veterinary-medicines"
+        },
+        {
+            "name": "Glimepiride And Metformin Hydrochloride SR Tablets",
+            "slug": "glimepiride-and-metformin-hydrochloride-sr-tablets-10351383.html",
+            "category_slug": "pain-killers"
+        },
+        {
+            "name": "Ibuprofen And Paracetamol Dispersible Tablets",
+            "slug": "ibuprofen-and-paracetamol-dispersible-tablets-10351384.html",
+            "category_slug": "pain-killers"
+        },
+        {
+            "name": "200 MG Tablets",
+            "slug": "200-mg-tablets-10351386.html",
+            "category_slug": "pain-killers"
+        },
+        {
+            "name": "20 MG Duloxetine Gastro-Resistnt Tablets IP",
+            "slug": "20-mg-duloxetine-gastro-resistnt-tablets-ip-10351390.html",
+            "category_slug": "erectile-dysfunction-medicine"
+        },
+        {
+            "name": "8 MG Methylprednisolone Tablets IP",
+            "slug": "8-mg-methylprednisolone-tablets-ip-10351391.html",
+            "category_slug": "erectile-dysfunction-medicine"
+        },
+        {
+            "name": "7.5 ML Nasal Spray",
+            "slug": "7-5-ml-nasal-spray-10351402.html",
+            "category_slug": "nasal-spray"
+        },
+        {
+            "name": "10 ML Nasal Spray",
+            "slug": "10-ml-nasal-spray-10351403.html",
+            "category_slug": "nasal-spray"
+        },
+        {
+            "name": "75 MG  Gastro-Resistant Tablets IP",
+            "slug": "75-mg-gastro-resistant-tablets-ip-10351405.html",
+            "category_slug": "antibiotic-tablets"
+        },
+        {
+            "name": "10 MG Olmesartan Medoxomil Tablets",
+            "slug": "10-mg-olmesartan-medoxomil-tablets-10351406.html",
+            "category_slug": "antibiotic-tablets"
+        },
+        {
+            "name": "20 MG Propranolol Tablets IP",
+            "slug": "20-mg-propranolol-tablets-ip-10351409.html",
+            "category_slug": "cardiac-medicines"
+        },
+        {
+            "name": "40 MG Olmesartan Medoxomil Tablets IP",
+            "slug": "40-mg-olmesartan-medoxomil-tablets-ip-10351410.html",
+            "category_slug": "cardiac-medicines"
+        },
+        {
+            "name": "30 GM Monobenzone Cream USP",
+            "slug": "30-gm-monobenzone-cream-usp-10351413.html",
+            "category_slug": "pharmaceutical-cream"
+        },
+        {
+            "name": "15 GM Fusidic Acid Clotrimazole And Clobetasol Propionate Cream",
+            "slug": "15-gm-fusidic-acid-clotrimazole-and-clobetasol-propionate-cream-10351414.html",
+            "category_slug": "pharmaceutical-cream"
+        },
+        {
+            "name": "Minoxidil Topical Solution USP 5%",
+            "slug": "minoxidil-topical-solution-usp-5--10351419.html",
+            "category_slug": "minoxidil-topical-solution"
+        },
+        {
+            "name": "Minoxidil Topical Solution USP 10%",
+            "slug": "minoxidil-topical-solution-usp-10--10351420.html",
+            "category_slug": "minoxidil-topical-solution"
+        },
+        {
+            "name": "Humalog Mix 25 Kwik Pen",
+            "slug": "humalog-mix-25-kwik-pen-10351423.html",
+            "category_slug": "kwik-pen"
+        },
+        {
+            "name": "Tresiba Flex Touch Pen",
+            "slug": "tresiba-flex-touch-pen-10351424.html",
+            "category_slug": "kwik-pen"
+        },
+        {
+            "name": "Tretinoin Gel USP",
+            "slug": "tretinoin-gel-usp-10351428.html",
+            "category_slug": "pharmaceutical-gel"
+        },
+        {
+            "name": "15 GM Tretinoin And Clindamycin Gel",
+            "slug": "15-gm-tretinoin-and-clindamycin-gel-10351429.html",
+            "category_slug": "pharmaceutical-gel"
+        },
+        {
+            "name": "Tiotropium Bromide And Formoterol Fumarate Powder For Inhalation",
+            "slug": "tiotropium-bromide-and-formoterol-fumarate-powder-for-inhalation-10351431.html",
+            "category_slug": "asthma-inhaler"
+        },
+        {
+            "name": "Tiotropium Bromide Formoterol Fumarate And Ciclesonide Rotacaps Inhaler",
+            "slug": "tiotropium-bromide-formoterol-fumarate-and-ciclesonide-rotacaps-inhaler-10351432.html",
+            "category_slug": "asthma-inhaler"
+        },
+        {
+            "name": "Dr Ortho Pain Relief Oil",
+            "slug": "dr-ortho-pain-relief-oil-10351439.html",
+            "category_slug": "pain-relief-oil"
+        },
+        {
+            "name": "Amrith Noni Pain Relief Oil",
+            "slug": "amrith-noni-pain-relief-oil-10351440.html",
+            "category_slug": "pain-relief-oil"
+        },
+        {
+            "name": "Zandu Ortho Vedic Oil",
+            "slug": "zandu-ortho-vedic-oil-10351441.html",
+            "category_slug": "pain-relief-oil"
+        },
+        {
+            "name": "12.5 MG Hydrochlorothiazide Tablets",
+            "slug": "12-5-mg-hydrochlorothiazide-tablets-10351444.html",
+            "category_slug": "antihypertensive-tablet"
+        },
+        {
+            "name": "80 MG Telmisartan And Hydrochlorothiazide Tablets IP",
+            "slug": "80-mg-telmisartan-and-hydrochlorothiazide-tablets-ip-10351447.html",
+            "category_slug": "antihypertensive-tablet"
+        },
+        {
+            "name": "Telmisartan And Hydrochlorothiazide Tablets IP",
+            "slug": "telmisartan-and-hydrochlorothiazide-tablets-ip-10351449.html",
+            "category_slug": "antihypertensive-tablet"
+        },
+        {
+            "name": "120 MG  Capsules USP",
+            "slug": "120-mg-capsules-usp-10351451.html",
+            "category_slug": "weight-loss-medicine"
+        },
+        {
+            "name": "120 MG Capsules USP",
+            "slug": "120-mg-capsules-usp-10351452.html",
+            "category_slug": "weight-loss-medicine"
+        },
+        {
+            "name": "50 MG Cilostazol Tablets IP",
+            "slug": "50-mg-cilostazol-tablets-ip-10351455.html",
+            "category_slug": "nephrology-medicines"
+        },
+        {
+            "name": "500 MG Doripenem For Injection",
+            "slug": "500-mg-doripenem-for-injection-10351456.html",
+            "category_slug": "nephrology-medicines"
+        },
+        {
+            "name": "40 MG Desogestrel And Ethinylestradiol Tablets USP",
+            "slug": "40-mg-desogestrel-and-ethinylestradiol-tablets-usp-10351460.html",
+            "category_slug": "birth-control-pill"
+        },
+        {
+            "name": "Levonorgestrel Tablets IP",
+            "slug": "levonorgestrel-tablets-ip-10351461.html",
+            "category_slug": "birth-control-pill"
+        },
+        {
+            "name": "Artemether Lumefentarine Tablets",
+            "slug": "artemether-lumefentarine-tablets-10351466.html",
+            "category_slug": "anti-malarial-medicine"
+        },
+        {
+            "name": "250 MG Levofloxacin Tablets IP",
+            "slug": "250-mg-levofloxacin-tablets-ip-10351467.html",
+            "category_slug": "anti-malarial-medicine"
+        },
+        {
+            "name": "100 MG Atenolol Tablets IP",
+            "slug": "100-mg-atenolol-tablets-ip-10351471.html",
+            "category_slug": "micronisation-of-atenolol"
+        },
+        {
+            "name": "25 MG Atenolol Tablets IP",
+            "slug": "25-mg-atenolol-tablets-ip-10351472.html",
+            "category_slug": "micronisation-of-atenolol"
+        },
+        {
+            "name": "5 MG Dapagliflozin Tablets",
+            "slug": "5-mg-dapagliflozin-tablets-10351473.html"
+        },
+        {
+            "name": "Moov Pain Relief Spray",
+            "slug": "moov-pain-relief-spray-10351475.html"
+        }
+    ]
+}

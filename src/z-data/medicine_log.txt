@@ -1,0 +1,207 @@
+Processing: 300 MG Abacavir Tablets IP
+Processing: 5 MG Amlodipine Tablets IP
+Processing: 60 MG Atomo xetine Hydrochloride Tablets
+Processing: 40 MG Azilsartan Medoxomil Tablets
+Processing: Metoprolol Succinate And Amlodipine Besylate Tablets IP
+Processing: 400 MG Ibuprofen Tablets IP
+Processing: 100 MG Clom iphene  Tablets IP
+Processing: Dicyclomine Hydrochloride And Paracetamol Tablets
+Processing: Diclofenac And Paracetamol Tablets
+Processing: 0.25 MG Cabergoline Tablet IP
+Processing: Desogestrel And Ethinylestradiol Tablets USP
+Processing: 25 MG Clomifene Tablets IP
+Processing: 5 MG Finasteride Tablets IP
+Processing: 1 MG Finasteride Tablets USP
+Processing: 10 MG Dapagliflozin Tablets
+Processing: Vildagliptin And Metformin HCL Tablets
+Processing: Glibenclamide And Metformin HCL Tablets IP
+Processing: Dextromethorpan Hydrobromide Phenylephrine HCL Chlorpheniramine Maleate Tablets
+Processing: 400 MG Imatinib Tablets IP
+Processing: 10 MG Escitalopram Tablets IP
+Processing: 20 MG Escitalopram Tablets IP
+Processing: 10 MG Bac lofen Tablets IP
+Processing: 20 MG Atorvastatin Tablets
+Processing: Atorvastatin And Clopidogrel Tablets
+Processing: 40 MG Atorvastatin Tablets IP
+Processing: 650 MG Acetaminophen Tablets IP
+Processing: 20 MG Tada lafil Tablets
+Processing: 2.5 MG Methotrexate Tablets IP
+Processing: Olmesartan And Amlodipin Tablets
+Processing: 5 MG Linagliptin Tablets
+Processing: 40 MG Prednisolone Tablets IP
+Processing: 600 MG Pirfenidone Tablets
+Processing: 1 MG Finasteride Tablets USP
+Processing: 10 MG Rosuvastatin Tablets IP
+Processing: 145 MG Fenofibrate Tablets IP
+Processing: 5 MG Linagliptin Tablets
+Processing: 10 MG Ezetimibe Tablets IP
+Processing: Metformin Hydrochloride Prolonged Release And Glimepiride Tablets IP
+Processing: Sitagliptin Phosphate Monohydrate And Metformin Hydrochloride Tablets
+Processing: 7.5 MG Zopiclone Tablets BP
+Processing: 25 MG Sertraline Tablets IP
+Processing: 100 MG Bevacizumab Injection
+Processing: 100 MG Bendamustine Hydrochloride For Injection
+Processing: Bleomycin Injection IP
+Processing: 50 MG Caspofungin Acetate For Injection
+Processing: 1 GM Cyclophosphamide Injection IP
+Processing: 500 MG Cyclophosphamide Injection IP
+Processing: 50 MG Decitabine For Injection
+Processing: 250 MG Fulvestrant Injection
+Processing: 200 MG Gemcitabine Injection IP
+Processing: 600 MG Glutathione For Injection
+Processing: Highly Purified Chorionic Gonadotrophin Injection 2000 IU
+Processing: 3 ML Insulin Lispro Injection IP
+Processing: 1 GM Imipenem And Cilastatin Injection IP
+Processing: 250 MG Imipenem And Cilastatin Injection IP
+Processing: 500 MG Imipenem And Cilastatin Injection IP
+Processing: 100 MG Infliximab Injection
+Processing: Irinotecan Injection IP
+Processing: 22.50 MG Leuprolide Acetate For Injection
+Processing: 250 MG Paclitaxel Injection IP
+Processing: Zoledronic Acid Injection
+Processing: 300 MG Paclitaxel Injection IP
+Processing: 5 ML Palonosetron Hydrochloride Injection
+Processing: 1.0 MG Tacrolimus Capsules IP
+Processing: Piperacillin And Tazobactam Injection IP
+Processing: Piperacillin And Tazobactam For Injection USP
+Processing: 1 GM Vancomycin Hydrochloride For Intravenous Infusion IP
+Processing: 50 MG Oxaliplatin For Injection USP
+Processing: 750 MCG Teriparatide Injection
+Processing: Chorionic Gonadotrophin Injection IP
+Processing: 100 MG Cyclosporine Capsules IP
+Processing: 40 MG Enzalutamide Capsules
+Processing: 250 MG Cycloserine Capsules IP
+Processing: 100 MG Etoposide Capsules IP
+Processing: 100 MG Itraconazole Capsules
+Processing: 200 MG Fenofibrate Capsules IP
+Processing: 25 MG Indomethacin Extended-Release Capsules USP
+Processing: 450 MG Pregabalin Capsules IP
+Processing: 300 MG Pregabalin Capsules IP
+Processing: 120 MG Capsules USP
+Processing: 2 MG Tacrolimus Capsules IP
+Processing: 1 MG Pomalidomide Capsules
+Processing: 300 MG Pregabalin Capsules IP
+Processing: 0.5 MG Tacrolimus Capsules IP
+Processing: 250 MG Abiraterone Acetate Tablets
+Processing: Memantine Hydrochloride Tablets IP
+Processing: 2 MG Melphalan Tablets IP
+Processing: Anastrozole Tablets
+Processing: 100 MG Erlotinib Tablets IP
+Processing: Anastrozole Tablets
+Processing: 2.5 MG Tablets IP
+Processing: 250 MG Gefitinib Tablets IP
+Processing: 400 MG Imatinib Tablets IP
+Processing: 200 MG Pirfenidone Tablets IP
+Processing: 400 MG Pirfenidone Tablets IP
+Processing: 200 MG Sorafenib Tablets
+Processing: 40 MG Azilsartan Medoxomil Tablets
+Processing: Rosuvastatin As pirin And Clopidogrel Capsules
+Processing: 25 MG Hydrochlorothiazide Tablets IP
+Processing: 20 MG Furosemide Tablets
+Processing: 100 MG Metoprolol Succinate Extended-Release Capsules
+Processing: Azilsartan Medoxomil And Chlorthalidone Tablets
+Processing: 5 MG Nebivolol Tablets IP
+Processing: 20 MG Olmesartan Medoxomil Tablets IP
+Processing: 20 MG Rosuvastatin Tablets IP
+Processing: 40 MG Telmisartan And Chlorthalidone Tablets
+Processing: 40 MG Ato Moxetine Hydrochloride Tablets
+Processing: 10 MG Buspirone Hydrochloride Tablets IP
+Processing: 30 MG Duloxetine Hydrochloride Tablets
+Processing: 5 MG Atorvastatin Tablets
+Processing: 5 MG Olanazapine Tablets IP
+Processing: 40 MG Propranolol Hydrochloride Tablets IP
+Processing: Pregabalin And Nortriptyline Tablets
+Processing: 25 MG Nortriptyline Tablets IP
+Processing: 5 ML Brimonidine Tartrate Eye Drops IP
+Processing: 3 ML Bimatoprost Ophthalmic Eye Drops
+Processing: 5 ML Cyclopentolate Eye Drops IP
+Processing: 5 ML Timolol Maleate Eye Drops IP
+Processing: 3 ML Bimatoprost Ophthalmic Eye Drops
+Processing: 3 ML Travoprost Eye Drops IP
+Processing: Bromfenac Ophthalmic Eye Drop
+Processing: 5 ML  Flurbiprofen Eye Drops IP
+Processing: 5 ML Ofloxacin Ophthalmic Eye Drop
+Processing: 2.5 ML Travoprost  Ophthalmic Eye Drop
+Processing: 5 ML Olopatadine Hydrochloride Ophthalmic Eye Drop
+Processing: Liraglutide Antidiabetic
+Failed to process Liraglutide Antidiabetic at https://clannumen.tradeindia.com/liraglutide-antidiabetic-10463760.html: 'NoneType' object has no attribute 'text'
+Processing: Insulin Glargine Injection
+Processing: 5 MG Cilnidipine Tablets IP
+Processing: 20 MG Trimetazidine Difydrochloride Tablets
+Processing: 50 MG Acarbose Tablets IP
+Processing: 80 MG Gliclazide Tablets
+Processing: Gliclazide And Metformin Hydrochloride Tablets
+Processing: Glimepiride And Metformin Hydrochloride SR Tablets
+Processing: Glimepiride And Metformin Hydrochloride Sustained Release Tablets
+Processing: 50 MG Acarbose Tablets IP
+Processing: Dapagliflozin And Sitagliptine Phosphate Tablets
+Processing: 50 MG Vildagliptin Tablets
+Processing: Vildagliptin And Metformin HCL Tablets
+Processing: 100 MG Vildagliptin Sustained Release Tablets
+Processing: 0.2 MG Voglibose Tablets IP
+Processing: 20 GM Candid Cream IP
+Processing: Azelaic Acid Cream 20% W-W
+Processing: 20 GM Hydroquinone Tretinoin And Mometasone Cream
+Processing: Topical Anesthetic Cream
+Processing: 30 GM Lignocaine Hydrochloride Gel USP
+Processing: 20 GM Hydroquinone Tretinoin And Mometasone Furoate Cream
+Processing: Hydroquinone Cream USP
+Processing: 15 GM Tretinoin Microsphere Gel 0.1% W-W
+Processing: 0.025% Tretinoin Cream USP
+Processing: 0.05% Tretinoin Cream USP
+Processing: 10 GM Lipid Based Tacrolimus Ointment  0.1% W-W
+Processing: 20 GM Tazarotene Gel 0.05% W-W
+Processing: Tretinoin Cream USP
+Processing: Hydroquinone And Tretinoin Fluocinolone Acetonide Cream USP
+Processing: 100 MG Megaflex Powder
+Processing: Fiprofort Plus For Cats
+Processing: 75 MG Carprofen Chewable Tablets
+Processing: 50 MG Cyclosporine Capsules IP
+Processing: Praziquantel Pyrantel Pamoate And Fabantel Tablets
+Processing: 15 ML Pyrantel Pamoate And Febantel Suspension
+Processing: S-Adenosyl Methionine And Silybin Tablets
+Processing: Glimepiride And Metformin Hydrochloride SR Tablets
+Processing: Ibuprofen And Paracetamol Dispersible Tablets
+Processing: 200 MG Tablets
+Processing: 20 MG Duloxetine Gastro-Resistnt Tablets IP
+Processing: 8 MG Methylprednisolone Tablets IP
+Processing: 7.5 ML Nasal Spray
+Processing: 10 ML Nasal Spray
+Processing: 75 MG  Gastro-Resistant Tablets IP
+Processing: 10 MG Olmesartan Medoxomil Tablets
+Processing: 20 MG Propranolol Tablets IP
+Processing: 40 MG Olmesartan Medoxomil Tablets IP
+Processing: 30 GM Monobenzone Cream USP
+Processing: 15 GM Fusidic Acid Clotrimazole And Clobetasol Propionate Cream
+Processing: Minoxidil Topical Solution USP 5%
+Processing: Minoxidil Topical Solution USP 10%
+Processing: Humalog Mix 25 Kwik Pen
+Processing: Tresiba Flex Touch Pen
+Processing: Tretinoin Gel USP
+Processing: 15 GM Tretinoin And Clindamycin Gel
+Processing: Tiotropium Bromide And Formoterol Fumarate Powder For Inhalation
+Processing: Tiotropium Bromide Formoterol Fumarate And Ciclesonide Rotacaps Inhaler
+Processing: Dr Ortho Pain Relief Oil
+Processing: Amrith Noni Pain Relief Oil
+Processing: Zandu Ortho Vedic Oil
+Processing: 12.5 MG Hydrochlorothiazide Tablets
+Processing: 80 MG Telmisartan And Hydrochlorothiazide Tablets IP
+Processing: Telmisartan And Hydrochlorothiazide Tablets IP
+Processing: 120 MG  Capsules USP
+Processing: 120 MG Capsules USP
+Processing: 50 MG Cilostazol Tablets IP
+Processing: 500 MG Doripenem For Injection
+Processing: 40 MG Desogestrel And Ethinylestradiol Tablets USP
+Processing: Levonorgestrel Tablets IP
+Processing: Artemether Lumefentarine Tablets
+Processing: 250 MG Levofloxacin Tablets IP
+Processing: 100 MG Atenolol Tablets IP
+Processing: 25 MG Atenolol Tablets IP
+Processing: 5 MG Dapagliflozin Tablets
+Processing: Moov Pain Relief Spray
+------ Summary ------
+Total processed: 200
+Successful: 199
+Failed: 1
+Failed URLs:
+

@@ -1,0 +1,38 @@
+{
+  "title": "Pharmaceutical Gel",
+  "slug": "pharmaceutical-gel",
+  "description": [
+    "Experience the excellence of our Pharmaceutical Gel, a new release in the market that is in high demand and trending among customers. With over 3.0 years of experience in the industry, we are proud to offer two superior products:: Tretinoin Gel USP, 15 GM and Tretinoin And Clindamycin Gel. Our Pharmaceutical Gel is a top-quality product that offers extraordinary benefits to its users. Here are five advantages and features of our product::1. Effective Treatment:: Our Pharmaceutical Gel is an effective treatment for various skin conditions, including acne, wrinkles, and fine lines.2. High-Quality Ingredients:: Our gel is made with high-quality ingredients that are safe and gentle on the skin.3. Easy to Use:: Our gel is easy to apply and absorbs quickly into the skin, leaving no residue or greasiness.4. Long-Lasting Results:: Our gel provides long-lasting results, making it a cost-effective solution for skin care.5. All India Supply Ability:: We have a strong supply chain in the domestic market, making our product available throughout India.In conclusion, our Pharmaceutical Gel is a peerless product that offers superior benefits to its users. Try it today and experience the difference for yourself!"
+  ],
+  "medicines": [
+    {
+      "name": "Tretinoin Gel USP",
+      "slug": "tretinoin-gel-usp-10351428",
+      "card-info": {
+        "Dosage Guidelines": "As per suggesstion",
+        "Formulations Form": "Cream",
+        "Formulations Type": "General Drugs",
+        "Purity": "99%",
+        "Storage Instructions": "Dry Place",
+        "Treatments & Functions": "Ointment",
+        "Supply Ability": "5000 Per Month",
+        "Price": "210 INR/Unit"
+      }
+    },
+    {
+      "name": "15 GM Tretinoin And Clindamycin Gel",
+      "slug": "15-gm-tretinoin-and-clindamycin-gel-10351429",
+      "card-info": {
+        "Application": "Hospital",
+        "Dosage Guidelines": "As per suggesstion",
+        "Formulations Form": "Cream",
+        "Formulations Type": "General Drugs",
+        "Purity": "99%",
+        "Storage Instructions": "Dry Place",
+        "Treatments & Functions": "Ointment",
+        "Supply Ability": "5000 Per Month",
+        "Price": "320 INR/Unit"
+      }
+    }
+  ]
+}

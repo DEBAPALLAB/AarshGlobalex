@@ -1,0 +1,35 @@
+{
+  "title": "Erectile Dysfunction Medicine",
+  "slug": "erectile-dysfunction-medicine",
+  "description": [
+    "Unleash the potential of our Erectile Dysfunction Medicine, which is a phenomenal product that can help you deal with the problem of erectile dysfunction. Our medicine is made using the highest quality ingredients, including 20 MG Duloxetine Gastro-Resistant Tablets IP and 8 MG Methylprednisolone Tablets IP, which work together to provide remarkable results. With our medicine, you can enjoy excellent sexual performance and regain your confidence in the bedroom. We offer the lowest price for our product, making it affordable for everyone. We also personalise our services to meet the unique needs of our customers. Our company has over 3.0 years of experience in the industry, and we have a supply ability in the domestic market across All India. Some of the advantages and features of our Erectile Dysfunction Medicine include improved sexual performance, increased libido, enhanced stamina, longer-lasting erections, and improved overall sexual health. Try our product today and experience the difference for yourself!"
+  ],
+  "medicines": [
+    {
+      "name": "20 MG Duloxetine Gastro-Resistnt Tablets IP",
+      "slug": "20-mg-duloxetine-gastro-resistnt-tablets-ip-10351390",
+      "card-info": {
+        "Dosage": "20 MG",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "8 MG Methylprednisolone Tablets IP",
+      "slug": "8-mg-methylprednisolone-tablets-ip-10351391",
+      "card-info": {
+        "Dosage": "8 mg",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    }
+  ]
+}

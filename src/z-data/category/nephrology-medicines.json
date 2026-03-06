@@ -1,0 +1,35 @@
+{
+  "title": "Nephrology Medicines",
+  "slug": "nephrology-medicines",
+  "description": [
+    "Embrace the reliability of our Nephrology Medicines, offered by our company as an exporter, supplier, and trader. Our product list includes 500 MG Doripenem For Injection and 50 MG Cilostazol Tablets IP, both of which are prime examples of our commitment to quality and effectiveness. With over 3.0 years of experience in the field, we have established ourselves as a trusted source for Nephrology Medicines in the domestic market, with a supply ability that covers all of India.",
+    "Our Nephrology Medicines offer instant savings and discounts, making them an affordable option for those in need. We also have limited stock available, so act fast to secure your supply. The gorgeous packaging of our products is unparalleled, reflecting the high standards we hold ourselves to. In terms of advantages and features, our Nephrology Medicines are highly effective in treating kidney-related ailments, with minimal side effects. They are also easy to administer and have a long shelf life, ensuring that you get the most out of your purchase."
+  ],
+  "medicines": [
+    {
+      "name": "50 MG Cilostazol Tablets IP",
+      "slug": "50-mg-cilostazol-tablets-ip-10351455",
+      "card-info": {
+        "Dosage": "50 mg",
+        "Dosage Form": "Solid",
+        "Drug Type": "General Medicines",
+        "Origin of Medicine": "India",
+        "Physical Form": "Tablets",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    },
+    {
+      "name": "500 MG Doripenem For Injection",
+      "slug": "500-mg-doripenem-for-injection-10351456",
+      "card-info": {
+        "Dosage": "500 MG",
+        "Drug Type": "Injection",
+        "Origin of Medicine": "India",
+        "Physical Form": "Liquid",
+        "Storage Instructions": "Dry Place",
+        "Supply Ability": "5000 Per Month"
+      }
+    }
+  ]
+}

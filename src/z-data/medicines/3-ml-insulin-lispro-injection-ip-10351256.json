@@ -1,0 +1,44 @@
+{
+    "name": "3 ML Insulin Lispro Injection IP",
+    "slug": "3-ml-insulin-lispro-injection-ip-10351256",
+    "specifications": {
+        "Origin of Medicine": "India",
+        "Drug Type": "Injection",
+        "Physical Form": "Liquid",
+        "Dosage": "3ml",
+        "Dosage Guidelines": "As per doctor suggestion",
+        "Storage Instructions": "Cool place"
+    },
+    "information": {
+        "Minimum Order Quantity": "50 Packs",
+        "Payment Terms": "Cash in Advance (CID)",
+        "Supply Ability": "5000 Packs  Per Month",
+        "Delivery Time": "2-10 Days",
+        "Main Domestic Market": "All India"
+    },
+    "about": "3 ML Insulin Lispro Injection IP is a liquid drug type injection originating from India. It is available in a dosage of 3ml and should be taken as per the doctors suggestion. This medication is used to control high blood sugar in people with diabetes. It works by helping move sugar from the blood into other body tissues where it is used for energy. This insulin injection is a rapid-acting insulin that starts to work within 15 minutes after injection, peaks in about 1 hour, and keeps working for 2 to 4 hours. It is important to store this medication in a cool place to maintain its effectiveness.",
+    "faq": [
+        {
+            "q": "What is the use of 3 ML Insulin Lispro Injection IP?",
+            "a": "3 ML Insulin Lispro Injection IP is used to control high blood sugar in people with diabetes."
+        },
+        {
+            "q": "How does 3 ML Insulin Lispro Injection IP work?",
+            "a": "This medication works by helping move sugar from the blood into other body tissues where it is used for energy."
+        },
+        {
+            "q": "What is the dosage of 3 ML Insulin Lispro Injection IP?",
+            "a": "3 ML Insulin Lispro Injection IP is available in a dosage of 3ml and should be taken as per the doctors suggestion."
+        },
+        {
+            "q": "What is the onset time of 3 ML Insulin Lispro Injection IP?",
+            "a": "3 ML Insulin Lispro Injection IP is a rapid-acting insulin that starts to work within 15 minutes after injection, peaks in about 1 hour, and keeps working for 2 to 4 hours."
+        },
+        {
+            "q": "How should 3 ML Insulin Lispro Injection IP be stored?",
+            "a": "It is important to store 3 ML Insulin Lispro Injection IP in a cool place to maintain its effectiveness."
+        }
+    ],
+    "image_url": "images/3-ml-insulin-lispro-injection-ip-10351256.jpg",
+    "category_slug": "pharmaceutical-injections"
+}
