@@ -1,15 +1,42 @@
 "use client";
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { TOP_NAV_LINKS } from '@/data/mockData';
-import { CATEGORIES } from '@/data/products';
 import { Search, Menu, ChevronDown } from 'lucide-react';
 
-const Navbar = () => {
+interface Category {
+    name: string;
+    slug: string;
+}
+
+interface NavbarProps {
+    initialCategories?: Category[];
+}
+
+const Navbar = ({ initialCategories = [] }: NavbarProps) => {
     const pathname = usePathname();
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const [categories, setCategories] = useState<Category[]>(initialCategories);
+
+    useEffect(() => {
+        // Only fetch if not provided as props
+        if (initialCategories.length === 0) {
+            const fetchCategories = async () => {
+                try {
+                    const response = await fetch('/api/categories');
+                    if (response.ok) {
+                        const data = await response.json();
+                        setCategories(data.categories || []);
+                    }
+                } catch (error) {
+                    console.error("Failed to fetch categories:", error);
+                }
+            };
+            fetchCategories();
+        }
+    }, [initialCategories]);
 
     return (
         <nav className="sticky top-0 z-50 bg-[#b19470] text-white shadow-md">
@@ -29,26 +56,41 @@ const Navbar = () => {
                                             onMouseEnter={() => setIsMenuOpen(true)}
                                             onMouseLeave={() => setIsMenuOpen(false)}
                                         >
-                                            <button
-                                                className={`px-4 py-2 text-sm font-medium transition-colors hover:bg-white/10 rounded-md flex items-center space-x-1 ${pathname === link.href ? 'bg-white/20' : ''}`}
-                                            >
-                                                <span>{link.name}</span>
-                                                <ChevronDown size={14} className={`transition-transform duration-200 ${isMenuOpen ? 'rotate-180' : ''}`} />
-                                            </button>
+                                            <div className="flex items-center">
+                                                <Link
+                                                    href="/our-products"
+                                                    className={`px-4 py-2 text-sm font-medium transition-colors hover:bg-white/10 rounded-l-md flex items-center space-x-1 ${pathname === '/our-products' ? 'bg-white/20' : ''}`}
+                                                >
+                                                    <span>{link.name}</span>
+                                                </Link>
+                                                <button
+                                                    className={`pr-3 pl-1 py-3 text-sm font-medium transition-colors hover:bg-white/10 rounded-r-md ${pathname === '/our-products' ? 'bg-white/20' : ''}`}
+                                                >
+                                                    <ChevronDown size={14} className={`transition-transform duration-200 ${isMenuOpen ? 'rotate-180' : ''}`} />
+                                                </button>
+                                            </div>
 
                                             {/* Dropdown Menu */}
-                                            <div className={`absolute top-full left-0 w-64 bg-white shadow-xl border border-gray-100 py-2 transition-all duration-200 origin-top transform ${isMenuOpen ? 'opacity-100 scale-100 visible' : 'opacity-0 scale-95 invisible'}`}>
+                                            <div className={`absolute top-full left-0 w-72 bg-white shadow-xl border border-gray-100 py-2 transition-all duration-200 origin-top transform ${isMenuOpen ? 'opacity-100 scale-100 visible' : 'opacity-0 scale-95 invisible'}`}>
                                                 <div className="max-h-[70vh] overflow-y-auto custom-scrollbar">
-                                                    {CATEGORIES.map((category) => (
-                                                        <Link
-                                                            key={category.slug}
-                                                            href={`/${category.slug}.html`}
-                                                            className="block px-4 py-2 text-xs text-gray-700 hover:bg-[#f08519]/10 hover:text-[#f08519] transition-colors uppercase font-semibold"
-                                                            onClick={() => setIsMenuOpen(false)}
-                                                        >
-                                                            {category.name}
-                                                        </Link>
-                                                    ))}
+                                                    {categories.map((category) => {
+                                                        const isStandalone = category.slug.includes('10351473') || category.slug.includes('10351475');
+                                                        const href = isStandalone ? `/${category.slug}` : `/category/${category.slug}`;
+
+                                                        return (
+                                                            <Link
+                                                                key={category.slug}
+                                                                href={href}
+                                                                className="block px-4 py-2 text-[10px] text-gray-700 hover:bg-[#b19470]/10 hover:text-[#b19470] transition-colors uppercase font-bold tracking-tight"
+                                                                onClick={() => setIsMenuOpen(false)}
+                                                            >
+                                                                {category.name}
+                                                            </Link>
+                                                        );
+                                                    })}
+                                                    {categories.length === 0 && (
+                                                        <div className="px-4 py-2 text-[10px] text-gray-400 italic text-center">No categories found</div>
+                                                    )}
                                                 </div>
                                             </div>
                                         </div>
