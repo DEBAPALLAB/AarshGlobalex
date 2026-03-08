@@ -53,15 +53,15 @@ const Footer = () => {
 
                 {/* Address */}
                 <div className="space-y-4">
-                    <div className="bg-[#4d4d4d] p-6 rounded-md space-y-4">
+                    <div className="bg-gradient-to-r from-lime-200 to-green-300 p-6 rounded-md space-y-4">
                         <div className="flex items-start space-x-3">
-                            <MapPin size={24} className="text-white shrink-0" />
-                            <p className="text-xs">{COMPANY_INFO.address}</p>
+                            <MapPin size={24} className="text-black shrink-0" />
+                            <p className="text-xs text-black/100">{COMPANY_INFO.address}</p>
                         </div>
                         <div className="border-t border-gray-500 pt-4 flex items-center space-x-3">
-                            <User size={24} className="text-white shrink-0" />
+                            <User size={24} className="text-black shrink-0" />
                             <div>
-                                <p className="text-xs font-bold text-white">{COMPANY_INFO.contactPerson}</p>
+                                <p className="text-xs font-bold text-black/100">{COMPANY_INFO.contactPerson}</p>
                                 <button className="text-[10px] text-primary hover:underline">View Number</button>
                             </div>
                         </div>

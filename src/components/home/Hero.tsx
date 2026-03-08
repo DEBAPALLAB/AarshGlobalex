@@ -4,8 +4,8 @@ import { COMPANY_INFO } from '@/data/mockData';
 
 const Hero = () => {
     return (
-        <div className="relative h-[400px] w-full bg-cover bg-center flex items-center overflow-hidden" style={{ backgroundImage: 'url("https://cpimg.tistatic.com/08611956/b/4/hero-bg.jpg")' }}>
-            <div className="absolute inset-0 bg-black/40"></div>
+        <div className="relative h-[400px] w-full bg-gradient-to-r from-lime-200 to-green-300 flex items-center overflow-hidden">
+            <div className="absolute inset-0 bg-black/10"></div>
             <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 text-white text-center md:text-left">
                 <div className="max-w-2xl space-y-4">
                     <p className="text-primary font-bold tracking-[0.2em] uppercase text-xs md:text-sm drop-shadow-md">TRADER, SUPPLIER, EXPORTER</p>
@@ -29,7 +29,7 @@ const Hero = () => {
             <div className="absolute right-12 bottom-12 hidden lg:block">
                 <div className="bg-white/95 p-6 rounded-sm shadow-2xl border-l-4 border-primary">
                     <img
-                        src="https://cpimg.tistatic.com/08611959/b/4/Vildagliptin-And-Metformin-HCL-Tablets.jpg"
+                        src="/images/40-mg-azilsartan-medoxomil-tablets-10351207.jpg"
                         alt="Featured Product"
                         className="w-40 h-40 object-contain mx-auto"
                     />

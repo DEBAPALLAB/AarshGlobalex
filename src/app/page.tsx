@@ -73,27 +73,27 @@ export default function Home() {
       </section>
 
       {/* Features/Trust Section */}
-      <section className="bg-[#2d2d2d] py-12 text-white">
+      <section className="bg-gradient-to-r from-lime-200 to-green-300 py-12 text-white">
         <div className="max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-2 md:grid-cols-4 gap-8">
           <div className="flex flex-col items-center text-center space-y-3">
             <ShieldCheck size={40} className="text-primary" />
             <h3 className="font-bold text-[11px] md:text-sm uppercase">Quality Assured</h3>
-            <p className="text-[10px] text-gray-400">Strict adherence to GMP standards</p>
+            <p className="text-[10px] text-black/70">Strict adherence to GMP standards</p>
           </div>
           <div className="flex flex-col items-center text-center space-y-3">
             <Truck size={40} className="text-primary" />
             <h3 className="font-bold text-[11px] md:text-sm uppercase">Global Shipping</h3>
-            <p className="text-[10px] text-gray-400">Reliable export network</p>
+            <p className="text-[10px] text-black/70">Reliable export network</p>
           </div>
           <div className="flex flex-col items-center text-center space-y-3">
             <Clock size={40} className="text-primary" />
             <h3 className="font-bold text-[11px] md:text-sm uppercase">Quick Delivery</h3>
-            <p className="text-[10px] text-gray-400">Efficient supply chain</p>
+            <p className="text-[10px] text-black/70">Efficient supply chain</p>
           </div>
           <div className="flex flex-col items-center text-center space-y-3">
             <Award size={40} className="text-primary" />
             <h3 className="font-bold text-[11px] md:text-sm uppercase">Expert Support</h3>
-            <p className="text-[10px] text-gray-400">Professional R&D team</p>
+            <p className="text-[10px] text-black/70">Professional R&D team</p>
           </div>
         </div>
       </section>

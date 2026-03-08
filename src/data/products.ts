@@ -13,10 +13,10 @@ export const PRODUCTS: Product[] = [
     {
         id: "10351204",
         name: "300 MG Abacavir Tablets IP",
-        slug: "300-mg-abacavir-tablets-ip",
+        slug: "300-mg-abacavir-tablets-ip-10351204",
         category: "Pharmaceutical Tablets",
         categorySlug: "pharmaceutical-tablets",
-        image: "https://cpimg.tistatic.com/08611956/b/4/300-mg-abacavir-tablets-ip.jpg", // Example URL based on pattern
+        image: "images/300-mg-abacavir-tablets-ip-10351204.jpg", // Example URL based on pattern
         specifications: {
             "Dosage": "300 mg",
             "Drug Type": "General Medicines",
@@ -28,10 +28,10 @@ export const PRODUCTS: Product[] = [
     {
         id: "10351293",
         name: "250 MG Abiraterone Acetate Tablets",
-        slug: "250-mg-abiraterone-acetate-tablets",
+        slug: "250-mg-abiraterone-acetate-tablets-10351293",
         category: "Anti Cancer Tablets",
         categorySlug: "anti-cancer-tablets",
-        image: "https://cpimg.tistatic.com/08611959/b/4/250-mg-abiraterone-acetate-tablets.jpg",
+        image: "images/250-mg-abiraterone-acetate-tablets-10351293.jpg",
         specifications: {
             "Fermentation Smell": "Normal Smell",
             "Origin": "India",
@@ -43,10 +43,10 @@ export const PRODUCTS: Product[] = [
     {
         id: "10351294",
         name: "Memantine Hydrochloride Tablets IP",
-        slug: "memantine-hydrochloride-tablets-ip",
+        slug: "memantine-hydrochloride-tablets-ip-10351294",
         category: "Anti Cancer Tablets",
         categorySlug: "anti-cancer-tablets",
-        image: "https://cpimg.tistatic.com/08611957/b/4/memantine.jpg",
+        image: "images/memantine-hydrochloride-tablets-ip-10351294.jpg",
         specifications: {
             "Dosage Form": "Tablet",
             "Origin": "India",
@@ -57,10 +57,10 @@ export const PRODUCTS: Product[] = [
     {
         id: "10351295",
         name: "2 MG Melphalan Tablets IP",
-        slug: "2-mg-melphalan-tablets-ip",
+        slug: "2-mg-melphalan-tablets-ip-10351295",
         category: "Anti Cancer Tablets",
         categorySlug: "anti-cancer-tablets",
-        image: "https://cpimg.tistatic.com/08611958/b/4/melphalan.jpg",
+        image: "images/2-mg-melphalan-tablets-ip-10351295.jpg",
         specifications: {
             "Dosage Form": "Tablet",
             "Storage": "Dry place",
@@ -74,7 +74,7 @@ export const PRODUCTS: Product[] = [
         slug: "anastrozole-tablets",
         category: "Anti Cancer Tablets",
         categorySlug: "anti-cancer-tablets",
-        image: "https://cpimg.tistatic.com/08611960/b/4/anastrozole.jpg",
+        image: "images/anastrozole-tablets.jpg",
         specifications: {
             "Drug Type": "General Medicines",
             "Storage": "Cool & Dry Place",
