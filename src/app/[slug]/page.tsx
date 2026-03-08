@@ -7,6 +7,7 @@ import { Share2, ArrowRight } from 'lucide-react';
 import InquiryStickyFooter from '@/components/ui/InquiryStickyFooter';
 import SafeImage from '@/components/ui/SafeImage';
 import ProductImageZoom from '@/components/ui/ProductImageZoom';
+import SendEnquiryButton from '@/components/ui/SendEnquiryButton';
 
 interface MedicineData {
     name: string;
@@ -118,9 +119,11 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
                         </div>
 
                         <div className="mt-auto flex flex-wrap gap-4">
-                            <button className="flex-grow md:flex-grow-0 px-10 py-5 bg-[#cc0000] text-white text-xs font-black uppercase tracking-widest rounded-sm hover:bg-black transition-all transform hover:-translate-y-1 shadow-2xl shadow-red-900/20 active:scale-95">
-                                Send Inquiry Now
-                            </button>
+                            <SendEnquiryButton
+                                medicineName={medicine.name}
+                                medicineSlug={medicine.slug}
+                                variant="primary"
+                            />
                             <button className="flex-grow md:flex-grow-0 px-10 py-5 border-2 border-[#005099] text-[#005099] text-xs font-black uppercase tracking-widest rounded-sm hover:bg-[#005099] hover:text-white transition-all transform hover:-translate-y-1 active:scale-95">
                                 WhatsApp Us
                             </button>

@@ -2,8 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { Mail } from 'lucide-react';
 import SafeImage from '@/components/ui/SafeImage';
+import SendEnquiryButton from '@/components/ui/SendEnquiryButton';
 
 interface MedicineCardProps {
     medicine: {
@@ -56,10 +56,11 @@ const MedicineCard: React.FC<MedicineCardProps> = ({ medicine }) => {
                     <Link href={`/${medicine.slug}`} className="inline-flex items-center px-6 py-2 bg-[#cc0000] text-white text-xs font-bold uppercase tracking-widest rounded-sm hover:bg-black transition-colors duration-300">
                         View Details
                     </Link>
-                    <button className="inline-flex items-center px-6 py-2 border-2 border-[#005099] text-[#005099] text-xs font-bold uppercase tracking-widest rounded-sm hover:bg-[#005099] hover:text-white transition-all duration-300 group">
-                        <Mail size={14} className="mr-2" />
-                        Send Inquiry
-                    </button>
+                    <SendEnquiryButton
+                        medicineName={medicine.name}
+                        medicineSlug={medicine.slug}
+                        variant="outline"
+                    />
                 </div>
             </div>
         </div>
