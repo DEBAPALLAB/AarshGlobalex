@@ -39,7 +39,7 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
     }, [initialCategories]);
 
     return (
-        <nav className="sticky top-0 z-50 bg-[#b19470] text-white shadow-md">
+        <nav className="sticky top-0 z-50 text-white shadow-md" style={{ background: '#1a1410', borderBottom: '1px solid rgba(255,255,255,0.07)' }}>
             <div className="max-w-7xl mx-auto px-4 md:px-8">
                 <div className="flex items-center justify-between h-14">
                     <div className="flex items-center space-x-1">
@@ -81,7 +81,7 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
                                                             <Link
                                                                 key={category.slug}
                                                                 href={href}
-                                                                className="block px-4 py-2 text-[10px] text-gray-700 hover:bg-[#b19470]/10 hover:text-[#b19470] transition-colors uppercase font-bold tracking-tight"
+                                                                className="block px-4 py-2 text-[10px] text-gray-700 hover:bg-[#a07850]/10 hover:text-[#a07850] transition-colors uppercase font-bold tracking-tight"
                                                                 onClick={() => setIsMenuOpen(false)}
                                                             >
                                                                 {category.name}
