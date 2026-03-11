@@ -10,27 +10,15 @@ interface SendEnquiryModalProps {
     medicineSlug: string;
 }
 
-const QUANTITY_PRESETS = [100, 200, 350, 550, 800, 1100];
+const QUANTITY_PRESETS = [100, 150, 200, 300, 500, 750, 1000];
 
 const UNIT_OPTIONS = [
-    "Pack/Packs",
-    "Box/Boxes",
-    "Strip/Strips",
-    "Bottle/Bottles",
-    "Piece/Pieces",
-    "Kg",
-    "Gram",
-    "Litre",
-    "ml",
+    "Unit/Units"
 ];
 
 const COUNTRY_CODES = [
     { code: "+91", flag: "🇮🇳", label: "IN" },
-    { code: "+1", flag: "🇺🇸", label: "US" },
-    { code: "+44", flag: "🇬🇧", label: "GB" },
-    { code: "+971", flag: "🇦🇪", label: "AE" },
-    { code: "+60", flag: "🇲🇾", label: "MY" },
-    { code: "+65", flag: "🇸🇬", label: "SG" },
+    { code: "+1", flag: "🇺🇸", label: "US" }
 ];
 
 const SendEnquiryModal: React.FC<SendEnquiryModalProps> = ({
