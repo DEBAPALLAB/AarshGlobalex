@@ -1,4 +1,4 @@
-import React from 'react';
+import Image from 'next/image';
 import Link from 'next/link';
 import { COMPANY_INFO } from '@/data/mockData';
 import { Phone, MapPin } from 'lucide-react';
@@ -8,7 +8,7 @@ const Header = () => {
         <div className="bg-white border-b border-gray-100 py-4 px-6 md:px-12 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-4">
                 <Link href="/" className="text-2xl font-bold text-primary flex items-center hover:opacity-80 transition-opacity">
-                    <span className="mr-2">🛡️</span>
+                    <Image src="/favicon.ico" alt="Logo" width={60} height={60} className="mr-2"/>
                     <div>
                         <h1 className="leading-tight text-xl tracking-wider">{COMPANY_INFO.name}</h1>
                         <p className="text-[10px] text-muted font-normal">GST : {COMPANY_INFO.gst}</p>
