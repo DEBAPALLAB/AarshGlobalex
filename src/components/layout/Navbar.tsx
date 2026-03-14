@@ -39,7 +39,7 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
     }, [initialCategories]);
 
     return (
-        <nav className="sticky top-0 z-50 bg-[#b19470] text-white shadow-md">
+        <nav className="sticky top-0 z-50 bg-primary text-white shadow-md">
             <div className="max-w-7xl mx-auto px-4 md:px-8">
                 <div className="flex items-center justify-between h-14">
                     <div className="flex items-center space-x-1">
@@ -71,8 +71,8 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
                                             </div>
 
                                             {/* Dropdown Menu */}
-                                            <div className={`absolute top-full left-0 w-72 bg-white shadow-xl border border-gray-100 py-2 transition-all duration-200 origin-top transform ${isMenuOpen ? 'opacity-100 scale-100 visible' : 'opacity-0 scale-95 invisible'}`}>
-                                                <div className="max-h-[70vh] overflow-y-auto custom-scrollbar">
+                                            <div className={`absolute top-full left-0 w-80 bg-white shadow-2xl rounded-xl border border-blue-50 py-3 mt-1 transition-all duration-200 origin-top transform ${isMenuOpen ? 'opacity-100 scale-100 visible' : 'opacity-0 scale-95 invisible'}`}>
+                                                <div className="max-h-[70vh] overflow-y-auto custom-scrollbar px-2 space-y-1">
                                                     {categories.map((category) => {
                                                         const isStandalone = category.slug.includes('10351473') || category.slug.includes('10351475');
                                                         const href = isStandalone ? `/${category.slug}` : `/category/${category.slug}`;
@@ -81,7 +81,7 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
                                                             <Link
                                                                 key={category.slug}
                                                                 href={href}
-                                                                className="block px-4 py-2 text-[10px] text-gray-700 hover:bg-[#b19470]/10 hover:text-[#b19470] transition-colors uppercase font-bold tracking-tight"
+                                                                className="block px-4 py-2.5 text-sm text-slate-700 font-medium rounded-lg hover:bg-blue-50 hover:text-blue-700 transition-all"
                                                                 onClick={() => setIsMenuOpen(false)}
                                                             >
                                                                 {category.name}

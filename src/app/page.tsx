@@ -6,31 +6,19 @@ import { ShieldCheck, Truck, Clock, Award } from "lucide-react";
 
 export default function Home() {
   return (
-    <div className="space-y-12 pb-12">
+    <div>
       <Hero />
 
-      {/* Hot Deals / Featured */}
-      <section className="max-w-7xl mx-auto px-6 md:px-12 pt-12">
-        <div className="border-b-2 border-primary/20 flex justify-center mb-8">
-          <h2 className="bg-white px-8 -mb-[2px] border-b-2 border-primary text-xl font-bold uppercase tracking-widest text-gray-800 py-2">
-            Hot Deals
-          </h2>
-        </div>
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">
-          {PRODUCTS.slice(0, 4).map((product) => (
-            <ProductCard key={product.id} {...product} />
-          ))}
-        </div>
-      </section>
+
 
       {/* About Section Teaser */}
-      <section className="bg-texture bg-[#f9f7f4] py-16 mt-12">
+      <section className="bg-texture bg-blue-50 py-16">
         <div className="max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-1 lg:grid-cols-3 gap-12 items-center">
           <div className="lg:col-span-2 space-y-6 text-center md:text-left">
-            <h2 className="text-2xl font-bold text-gray-800 leading-tight">
+            <h2 className="text-3xl font-extrabold text-gray-900 leading-tight">
               Delivering Excellence in Healthcare with Abacavir, Amlodipine, and Specialized Pharmaceutical Solutions for a Healthier Tomorrow.
             </h2>
-            <div className="h-1 w-24 bg-primary mx-auto md:mx-0"></div>
+            <div className="h-1.5 w-24 bg-blue-600 mx-auto md:mx-0 rounded-full"></div>
             <p className="text-gray-600 leading-relaxed text-sm">
               Clan Numen is a leading name in the pharmaceutical industry, epitomizing excellence through our complete range of pharmaceutical formulations. We stick strictly to quality as a trader, supplier, and exporter of pharmaceutical products that are of international standards.
             </p>
@@ -38,12 +26,12 @@ export default function Home() {
               We specialize in developing and improving pharmaceutical formulations through our advanced R&D activities, with specific experience in the more complex therapeutic areas such as oncology and antifungal drugs.
             </p>
             <div className="pt-4 flex justify-center md:justify-start">
-              <button className="bg-primary text-white px-8 py-2.5 rounded-sm text-sm font-bold uppercase transition-all hover:shadow-lg">
+              <button className="bg-blue-600 text-white px-8 py-3 rounded-full text-sm font-bold uppercase tracking-wider transition-all shadow-lg shadow-blue-500/30 hover:-translate-y-1 hover:shadow-xl">
                 Read More
               </button>
             </div>
           </div>
-          <div className="relative aspect-4/3 rounded-sm overflow-hidden shadow-2xl">
+          <div className="relative aspect-4/3 rounded-2xl overflow-hidden shadow-2xl ring-1 ring-black/5">
             <img
               src="https://cpimg.tistatic.com/08611956/b/4/melacare.jpg"
               alt="Quality Manufacturing"
@@ -55,10 +43,11 @@ export default function Home() {
 
       {/* Most Popular Products */}
       <section className="max-w-7xl mx-auto px-6 md:px-12 py-12">
-        <div className="border-b-2 border-primary/20 flex justify-center mb-8">
-          <h2 className="bg-white px-8 -mb-[2px] border-b-2 border-primary text-xl font-bold uppercase tracking-widest text-gray-800 py-2">
+        <div className="text-center mb-10">
+          <h2 className="text-3xl md:text-4xl font-extrabold text-transparent bg-clip-text bg-linear-to-r from-blue-900 to-blue-500 tracking-tight">
             Most Popular Products
           </h2>
+          <div className="h-1.5 w-24 bg-blue-500 mx-auto mt-4 rounded-full opacity-80"></div>
         </div>
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">
           {PRODUCTS.slice(0, 4).map((product) => (
@@ -66,34 +55,43 @@ export default function Home() {
           ))}
         </div>
         <div className="flex justify-center mt-12">
-          <Link href="/our-products" className="bg-primary/10 text-primary border border-primary px-8 py-2 rounded-sm text-sm font-bold uppercase hover:bg-primary hover:text-white transition-all">
+          <Link href="/our-products" className="bg-white border-2 border-blue-100 text-blue-700 px-10 py-3 rounded-full text-sm font-bold uppercase tracking-wider hover:bg-blue-50 hover:border-blue-200 transition-all shadow-sm">
             View all products
           </Link>
         </div>
       </section>
 
       {/* Features/Trust Section */}
-      <section className="bg-gradient-to-r from-lime-200 to-green-300 py-12 text-white">
-        <div className="max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-2 md:grid-cols-4 gap-8">
-          <div className="flex flex-col items-center text-center space-y-3">
-            <ShieldCheck size={40} className="text-primary" />
-            <h3 className="font-bold text-[11px] md:text-sm uppercase">Quality Assured</h3>
-            <p className="text-[10px] text-black/70">Strict adherence to GMP standards</p>
+      <section className="bg-linear-to-r from-blue-700 via-blue-600 to-blue-800 py-16 text-white relative overflow-hidden">
+        <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10 mix-blend-overlay"></div>
+        <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 grid grid-cols-2 md:grid-cols-4 gap-8">
+          <div className="flex flex-col items-center text-center space-y-4">
+            <div className="p-4 bg-white/10 rounded-2xl backdrop-blur-sm border border-white/20 shadow-xl">
+              <ShieldCheck size={36} className="text-blue-100" />
+            </div>
+            <h3 className="font-bold text-xs md:text-sm uppercase tracking-wider text-blue-50">Quality Assured</h3>
+            <p className="text-[11px] text-blue-200">Strict adherence to GMP standards</p>
           </div>
-          <div className="flex flex-col items-center text-center space-y-3">
-            <Truck size={40} className="text-primary" />
-            <h3 className="font-bold text-[11px] md:text-sm uppercase">Global Shipping</h3>
-            <p className="text-[10px] text-black/70">Reliable export network</p>
+          <div className="flex flex-col items-center text-center space-y-4">
+            <div className="p-4 bg-white/10 rounded-2xl backdrop-blur-sm border border-white/20 shadow-xl">
+              <Truck size={36} className="text-blue-100" />
+            </div>
+            <h3 className="font-bold text-xs md:text-sm uppercase tracking-wider text-blue-50">Global Shipping</h3>
+            <p className="text-[11px] text-blue-200">Reliable export network</p>
           </div>
-          <div className="flex flex-col items-center text-center space-y-3">
-            <Clock size={40} className="text-primary" />
-            <h3 className="font-bold text-[11px] md:text-sm uppercase">Quick Delivery</h3>
-            <p className="text-[10px] text-black/70">Efficient supply chain</p>
+          <div className="flex flex-col items-center text-center space-y-4">
+            <div className="p-4 bg-white/10 rounded-2xl backdrop-blur-sm border border-white/20 shadow-xl">
+              <Clock size={36} className="text-blue-100" />
+            </div>
+            <h3 className="font-bold text-xs md:text-sm uppercase tracking-wider text-blue-50">Quick Delivery</h3>
+            <p className="text-[11px] text-blue-200">Efficient supply chain</p>
           </div>
-          <div className="flex flex-col items-center text-center space-y-3">
-            <Award size={40} className="text-primary" />
-            <h3 className="font-bold text-[11px] md:text-sm uppercase">Expert Support</h3>
-            <p className="text-[10px] text-black/70">Professional R&D team</p>
+          <div className="flex flex-col items-center text-center space-y-4">
+            <div className="p-4 bg-white/10 rounded-2xl backdrop-blur-sm border border-white/20 shadow-xl">
+              <Award size={36} className="text-blue-100" />
+            </div>
+            <h3 className="font-bold text-xs md:text-sm uppercase tracking-wider text-blue-50">Expert Support</h3>
+            <p className="text-[11px] text-blue-200">Professional R&D team</p>
           </div>
         </div>
       </section>

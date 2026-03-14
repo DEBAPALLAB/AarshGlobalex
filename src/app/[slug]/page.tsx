@@ -201,6 +201,8 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
                     </section>
                 )}
             </main>
+            <InquiryStickyFooter productName={medicine.name} productSlug={medicine.slug} />
         </div>
     );
 }
+
