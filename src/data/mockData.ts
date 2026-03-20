@@ -61,7 +61,7 @@ export const FEATURED_PRODUCTS = [
 export const COMPANY_INFO = {
   name: 'Aarsh Globalex',
   gst: '---',
-  contactPerson: 'Mr Aarrsh Globalex (Partner)',
-  mobile: '---',
+  contactPerson: 'Mr. Sachin Raut',
+  mobile: '+91 72766 61881',
   address: 'Plot No -, Nandanvan, Nagpur - 440034, Maharashtra, India',
 };

@@ -67,7 +67,7 @@ const Footer = () => {
                             <User size={24} className="text-white shrink-0" />
                             <div>
                                 <p className="text-xs font-bold text-white!">{COMPANY_INFO.contactPerson}</p>
-                                <button className="text-[10px] text-blue-100 hover:underline">View Number</button>
+                                <a href={`tel:${COMPANY_INFO.mobile}`} className="text-[11px] text-blue-100 hover:underline hover:text-white transition-colors">{COMPANY_INFO.mobile}</a>
                             </div>
                         </div>
                     </div>
