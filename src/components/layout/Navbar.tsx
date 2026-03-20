@@ -96,6 +96,17 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
                                         </div>
                                     );
                                 }
+                                if (link.name === 'Contact Us') {
+                                    return (
+                                        <Link
+                                            key={link.href}
+                                            href={link.href}
+                                            className={`ml-4 px-6 py-2 text-sm font-bold transition-all bg-white text-primary hover:bg-blue-50 rounded-full shadow-lg shadow-black/10 active:scale-95 ${pathname === link.href ? 'bg-blue-50' : ''}`}
+                                        >
+                                            {link.name}
+                                        </Link>
+                                    );
+                                }
                                 return (
                                     <Link
                                         key={link.href}

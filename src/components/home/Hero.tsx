@@ -45,12 +45,13 @@ const Hero = () => {
                                 <ArrowRight size={18} className="ml-1" />
                             </button>
                         </Link>
-                        <button
-                            onClick={() => setIsModalOpen(true)}
-                            className="w-full sm:w-auto flex items-center justify-center space-x-2 bg-white text-slate-700 hover:text-blue-600 border border-slate-200 hover:border-blue-200 hover:bg-blue-50/50 px-8 py-3.5 rounded-full font-semibold transition-all shadow-sm active:scale-95"
-                        >
-                            <span>Contact Sales</span>
-                        </button>
+                        <Link href="/contact-us" className="w-full sm:w-auto">
+                            <button
+                                className="w-full sm:w-auto flex items-center justify-center space-x-2 bg-white text-slate-700 hover:text-blue-600 border border-slate-200 hover:border-blue-200 hover:bg-blue-50/50 px-8 py-3.5 rounded-full font-semibold transition-all shadow-sm active:scale-95"
+                            >
+                                <span>Contact Sales</span>
+                            </button>
+                        </Link>
                     </div>
 
                     {/* Trust Indicators */}
