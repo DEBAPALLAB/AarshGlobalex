@@ -34,11 +34,6 @@ const Footer = () => {
                                 </Link>
                             </li>
                         ))}
-                        <li>
-                            <Link href="/sitemap" className="hover:text-white transition-colors flex items-center">
-                                <span className="mr-2 text-[10px]">➜</span> Sitemap
-                            </Link>
-                        </li>
                     </ul>
                 </div>
 

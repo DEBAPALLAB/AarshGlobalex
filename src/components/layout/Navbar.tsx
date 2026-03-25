@@ -120,16 +120,6 @@ const Navbar = ({ initialCategories = [] }: NavbarProps) => {
                         </div>
                     </div>
 
-                    <div className="relative grow max-w-xs ml-4">
-                        <input
-                            type="text"
-                            placeholder="Enter keywords to search..."
-                            className="w-full bg-white/20 text-white placeholder-white/70 border-none rounded-sm py-1.5 pl-3 pr-10 text-xs focus:ring-2 focus:ring-white/50 outline-none"
-                        />
-                        <div className="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none text-white/70">
-                            <Search size={14} />
-                        </div>
-                    </div>
                 </div>
             </div>
         </nav>

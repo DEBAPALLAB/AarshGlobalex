@@ -219,5 +219,4 @@ const ProductsPage = async () => {
         </div>
     );
 };
-
 export default ProductsPage;

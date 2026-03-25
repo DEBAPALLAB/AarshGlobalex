@@ -27,6 +27,7 @@ const SendEnquiryModal: React.FC<SendEnquiryModalProps> = ({
     medicineName,
     medicineSlug,
 }) => {
+    const [name, setName] = useState("");
     const [quantity, setQuantity] = useState("50");
     const [unit, setUnit] = useState("Pack/Packs");
     const [isUnitOpen, setIsUnitOpen] = useState(false);
@@ -211,52 +212,34 @@ const SendEnquiryModal: React.FC<SendEnquiryModalProps> = ({
                         />
                     </div>
 
+                    {/* Name Input */}
+                    <div className="relative">
+                        <label className="absolute -top-2 left-3 bg-white px-1 text-[10px] font-bold text-gray-400 uppercase tracking-widest">
+                            Your Name
+                        </label>
+                        <input
+                            type="text"
+                            value={name}
+                            onChange={(e) => setName(e.target.value)}
+                            placeholder="Enter your name"
+                            required
+                            className="w-full border border-gray-200 rounded-md px-3 pt-3 pb-2 text-sm font-semibold text-gray-800 focus:outline-none focus:border-[#cc0000] focus:ring-1 focus:ring-[#cc0000]/20 transition-all placeholder:text-gray-300"
+                        />
+                    </div>
+
                     {/* Mobile Number */}
                     <div className="flex gap-2">
-                        {/* Country Code Dropdown */}
-                        <div className="relative">
-                            <button
-                                type="button"
-                                onClick={() => setIsCountryOpen((v) => !v)}
-                                className="h-full border border-gray-200 rounded-md px-3 flex items-center gap-1.5 text-sm font-semibold text-gray-700 bg-white hover:border-[#cc0000] transition-colors focus:outline-none whitespace-nowrap"
-                            >
-                                <span>
-                                    {COUNTRY_CODES.find((c) => c.code === countryCode)?.flag}
-                                </span>
-                                <span>{countryCode}</span>
-                                <ChevronDown size={12} className="text-gray-400" />
-                            </button>
-                            {isCountryOpen && (
-                                <div className="absolute top-full left-0 mt-1 bg-white border border-gray-200 rounded-md shadow-lg z-50 w-40">
-                                    {COUNTRY_CODES.map((c) => (
-                                        <button
-                                            key={c.code}
-                                            type="button"
-                                            onClick={() => {
-                                                setCountryCode(c.code);
-                                                setIsCountryOpen(false);
-                                            }}
-                                            className={`w-full text-left px-3 py-2 text-sm flex items-center gap-2 hover:bg-red-50 hover:text-[#cc0000] transition-colors font-medium ${countryCode === c.code
-                                                    ? "text-[#cc0000] bg-red-50"
-                                                    : "text-gray-700"
-                                                }`}
-                                        >
-                                            <span>{c.flag}</span>
-                                            <span>{c.code}</span>
-                                            <span className="text-xs text-gray-400">{c.label}</span>
-                                        </button>
-                                    ))}
-                                </div>
-                            )}
-                        </div>
-
+                        
                         {/* Mobile Input */}
                         <div className="flex-1 relative">
+                            <label className="absolute -top-2 left-3 bg-white px-1 text-[10px] font-bold text-gray-400 uppercase tracking-widest">
+                                Mobile Number
+                            </label>
                             <input
                                 type="tel"
                                 value={mobile}
                                 onChange={(e) => setMobile(e.target.value)}
-                                placeholder="Mobile number"
+                                placeholder="Mobile number (Add country code)"
                                 required
                                 className="w-full border border-gray-200 rounded-md px-3 py-3 text-sm font-semibold text-gray-800 focus:outline-none focus:border-[#cc0000] focus:ring-1 focus:ring-[#cc0000]/20 transition-all placeholder:text-gray-300"
                             />
