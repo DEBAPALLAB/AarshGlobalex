@@ -77,27 +77,6 @@ const Footer = () => {
                 </div>
             </div>
 
-            {/* Floating Action Buttons */}
-            <div className="fixed bottom-0 inset-x-0 md:relative md:inset-x-auto md:mt-8 flex justify-center space-x-2 md:pb-0 z-40 bg-white md:bg-transparent p-2 md:p-0 border-t md:border-t-0 shadow-lg md:shadow-none">
-                <button
-                    onClick={() => setIsModalOpen(true)}
-                    className="flex-1 md:flex-none flex items-center justify-center space-x-2 bg-[#ff7700] hover:bg-[#e66b00] text-white px-6 py-2 rounded-sm text-xs font-bold uppercase transition-transform active:scale-95"
-                >
-                    <Send size={14} />
-                    <span>Send Inquiry</span>
-                </button>
-                <button className="flex-1 md:flex-none flex items-center justify-center space-x-2 bg-primary hover:bg-primary/90 text-white px-6 py-2 rounded-sm text-xs font-bold uppercase transition-transform active:scale-95">
-                    <Phone size={14} />
-                    <span>Send SMS</span>
-                </button>
-            </div>
-
-            <SendEnquiryModal
-                isOpen={isModalOpen}
-                onClose={() => setIsModalOpen(false)}
-                medicineName="General Inquiry"
-                medicineSlug="general-inquiry"
-            />
         </footer>
     );
 };

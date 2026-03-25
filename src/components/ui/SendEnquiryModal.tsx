@@ -68,19 +68,43 @@ const SendEnquiryModal: React.FC<SendEnquiryModalProps> = ({
         e.preventDefault();
         if (!mobile.trim()) return;
         setIsSubmitting(true);
-        // Simulate async submit
-        await new Promise((r) => setTimeout(r, 1200));
-        setIsSubmitting(false);
-        setSubmitted(true);
-        setTimeout(() => {
-            setSubmitted(false);
-            onClose();
-            // Reset form
-            setQuantity("50");
-            setUnit("Pack/Packs");
-            setAdditionalDetail("");
-            setMobile("");
-        }, 2000);
+
+        try {
+            const res = await fetch('/api/submit-form', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    type: 'ENQ',
+                    name,
+                    phone: mobile,
+                    medicine: medicineName,
+                    quantity,
+                    unit,
+                    details: additionalDetail,
+                }),
+            });
+
+            const result = await res.json();
+
+            if (result.status === 'success') {
+                setSubmitted(true);
+                setTimeout(() => {
+                    setSubmitted(false);
+                    onClose();
+                    setName("");
+                    setQuantity("50");
+                    setUnit("Pack/Packs");
+                    setAdditionalDetail("");
+                    setMobile("");
+                }, 2000);
+            } else {
+                alert(result.error || 'Failed to send enquiry. Please try again.');
+            }
+        } catch {
+            alert('Failed to send enquiry. Please try again later.');
+        } finally {
+            setIsSubmitting(false);
+        }
     };
 
     if (!isOpen) return null;

@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { COMPANY_INFO } from '@/data/mockData';
-import { Phone, MapPin } from 'lucide-react';
+import { COMPANY_INFO, SOCIAL_LINKS } from '@/data/mockData';
+import { Phone } from 'lucide-react';
 
 const Header = () => {
     return (
@@ -17,6 +17,26 @@ const Header = () => {
             </div>
 
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-8">
+                {/* Social Media Links */}
+                <div className="flex items-center space-x-3">
+                    {SOCIAL_LINKS.map((social) => (
+                        <a
+                            key={social.name}
+                            href={social.href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="w-8 h-8 rounded-full bg-gray-50 hover:bg-gray-100 flex items-center justify-center transition-all hover:scale-110"
+                            aria-label={social.name}
+                        >
+                            <img
+                                src={social.icon}
+                                alt={social.name}
+                                className="w-4 h-4"
+                            />
+                        </a>
+                    ))}
+                </div>
+
                 <div className="flex items-center space-x-2 text-sm">
                     <div className="bg-primary/10 p-2 rounded-full">
                         <Phone size={16} className="text-primary" />

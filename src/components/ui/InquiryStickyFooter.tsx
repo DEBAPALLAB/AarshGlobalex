@@ -44,15 +44,8 @@ const InquiryStickyFooter: React.FC<InquiryStickyFooterProps> = ({ productName, 
                             Request To Call Back
                         </button>
 
-                        <button
-                            onClick={() => setIsModalOpen(true)}
-                            className="p-3 bg-[#005099] text-white rounded-sm hover:bg-black transition-colors duration-300 shadow-lg shadow-blue-900/10 hidden md:block"
-                        >
-                            <Mail size={18} />
-                        </button>
-
                         <a
-                            href="https://wa.me/9107971891554"
+                            href={`https://wa.me/917276661881?text=${encodeURIComponent(`Hi, I'd like to enquire about ${productName}. Please share more details.`)}`}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="p-3 bg-[#25D366] text-white rounded-sm hover:bg-[#128C7E] transition-colors duration-300 shadow-lg shadow-green-900/10"

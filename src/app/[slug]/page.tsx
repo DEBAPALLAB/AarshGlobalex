@@ -124,9 +124,14 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
                                 medicineSlug={medicine.slug}
                                 variant="primary"
                             />
-                            <button className="flex-grow md:flex-grow-0 px-10 py-5 border-2 border-[#005099] text-[#005099] text-xs font-black uppercase tracking-widest rounded-sm hover:bg-[#005099] hover:text-white transition-all transform hover:-translate-y-1 active:scale-95">
+                            <a
+                                href={`https://wa.me/917276661881?text=${encodeURIComponent(`Hi, I'd like to enquire about ${medicine.name}. Please share more details.`)}`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex-grow md:flex-grow-0 px-10 py-5 border-2 border-[#25D366] text-[#25D366] text-xs font-black uppercase tracking-widest rounded-sm hover:bg-[#25D366] hover:text-white transition-all transform hover:-translate-y-1 active:scale-95 text-center"
+                            >
                                 WhatsApp Us
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>

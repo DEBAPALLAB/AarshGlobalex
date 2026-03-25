@@ -60,8 +60,27 @@ export const FEATURED_PRODUCTS = [
 
 export const COMPANY_INFO = {
   name: 'Aarsh Globalex',
-  gst: '---',
+  gst: '27AOEPR7150N1ZD',
   contactPerson: 'Mr. Sachin Raut',
   mobile: '+91 72766 61881',
-  address: 'Plot No -, Nandanvan, Nagpur - 440034, Maharashtra, India',
+  whatsapp: '917276661881',
+  address: 'RH 04, Vyanktesh Nagar, Near KDK college, Nandanvan Nagpur 440009',
 };
+
+export const SOCIAL_LINKS = [
+  {
+    name: 'LinkedIn',
+    href: 'https://www.linkedin.com/in/sachin-raut-real-estate',
+    icon: '/images/social/linkedin.svg',
+  },
+  {
+    name: 'Instagram',
+    href: 'https://www.instagram.com/aarsh_globalex/',
+    icon: '/images/social/instagram.svg',
+  },
+  {
+    name: 'Facebook',
+    href: 'https://www.facebook.com/share/17Lwnj6bJY/',
+    icon: '/images/social/facebook.svg',
+  },
+];

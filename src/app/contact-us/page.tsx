@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState } from 'react';
-import { Mail, Phone, MapPin, Send, MessageSquare, Clock, Globe, ShieldCheck, Award } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, MessageSquare, Globe, ShieldCheck, Award } from 'lucide-react';
 import { COMPANY_INFO } from '@/data/mockData';
 
 const ContactPage = () => {
@@ -9,15 +9,38 @@ const ContactPage = () => {
         name: '',
         email: '',
         phone: '',
-        subject: '',
         message: ''
     });
+    const [isSubmitting, setIsSubmitting] = useState(false);
+    const [submitted, setSubmitted] = useState(false);
+    const [error, setError] = useState('');
 
-    const handleSubmit = (e: React.FormEvent) => {
+    const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
-        // Handle form submission
-        console.log(formData);
-        alert('Thank you for your message! We will get back to you soon.');
+        setIsSubmitting(true);
+        setError('');
+
+        try {
+            const res = await fetch('/api/submit-form', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ type: 'MSG', ...formData }),
+            });
+
+            const result = await res.json();
+
+            if (result.status === 'success') {
+                setSubmitted(true);
+                setFormData({ name: '', email: '', phone: '', message: '' });
+                setTimeout(() => setSubmitted(false), 3000);
+            } else {
+                setError(result.error || 'Something went wrong. Please try again.');
+            }
+        } catch {
+            setError('Failed to send message. Please try again later.');
+        } finally {
+            setIsSubmitting(false);
+        }
     };
 
     return (
@@ -159,25 +182,7 @@ const ContactPage = () => {
                                         onChange={(e) => setFormData({...formData, phone: e.target.value})}
                                     />
                                 </div>
-                                <div className="space-y-2">
-                                    <label className="text-xs font-bold text-gray-700 uppercase tracking-wider">Subject</label>
-                                    <div className="relative">
-                                        <select 
-                                            className="w-full bg-gray-50 border-none rounded-xl px-4 py-3 text-sm focus:ring-2 focus:ring-blue-500 outline-none transition-all appearance-none"
-                                            value={formData.subject}
-                                            onChange={(e) => setFormData({...formData, subject: e.target.value})}
-                                        >
-                                            <option value="">General Inquiry</option>
-                                            <option value="Product Sourcing">Product Sourcing</option>
-                                            <option value="Bulk Order">Bulk Order</option>
-                                            <option value="Partnership">Partnership</option>
-                                            <option value="Other">Other</option>
-                                        </select>
-                                        <div className="absolute inset-y-0 right-4 flex items-center pointer-events-none">
-                                            <Clock size={14} className="text-gray-400" />
-                                        </div>
-                                    </div>
-                                </div>
+
                                 <div className="md:col-span-2 space-y-2">
                                     <label className="text-xs font-bold text-gray-700 uppercase tracking-wider">Your Message</label>
                                     <textarea 
@@ -189,13 +194,33 @@ const ContactPage = () => {
                                         onChange={(e) => setFormData({...formData, message: e.target.value})}
                                     />
                                 </div>
+                                {error && (
+                                    <div className="md:col-span-2">
+                                        <p className="text-red-500 text-sm text-center bg-red-50 rounded-xl px-4 py-3">{error}</p>
+                                    </div>
+                                )}
                                 <div className="md:col-span-2 pt-4">
                                     <button 
                                         type="submit"
-                                        className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 rounded-xl shadow-lg shadow-blue-500/30 transition-all flex items-center justify-center space-x-3 group active:scale-[0.98]"
+                                        disabled={isSubmitting || submitted}
+                                        className={`w-full font-bold py-4 rounded-xl shadow-lg transition-all flex items-center justify-center space-x-3 group active:scale-[0.98] ${
+                                            submitted
+                                                ? 'bg-green-500 text-white shadow-green-500/30'
+                                                : isSubmitting
+                                                    ? 'bg-blue-400 text-white cursor-wait shadow-blue-400/30'
+                                                    : 'bg-blue-600 hover:bg-blue-700 text-white shadow-blue-500/30'
+                                        }`}
                                     >
-                                        <span>Send Message</span>
-                                        <Send size={18} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+                                        <span>
+                                            {submitted
+                                                ? '✓ Message Sent!'
+                                                : isSubmitting
+                                                    ? 'Sending...'
+                                                    : 'Send Message'}
+                                        </span>
+                                        {!submitted && !isSubmitting && (
+                                            <Send size={18} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+                                        )}
                                     </button>
                                 </div>
                             </form>
