@@ -4,6 +4,7 @@ import path from 'path';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { Share2, ArrowRight } from 'lucide-react';
+import { COMPANY_INFO } from '@/data/mockData';
 import InquiryStickyFooter from '@/components/ui/InquiryStickyFooter';
 import SafeImage from '@/components/ui/SafeImage';
 import ProductImageZoom from '@/components/ui/ProductImageZoom';
@@ -125,7 +126,7 @@ export default async function MedicinePage({ params }: { params: Promise<{ slug:
                                 variant="primary"
                             />
                             <a
-                                href={`https://wa.me/917276661881?text=${encodeURIComponent(`Hi, I'd like to enquire about ${medicine.name}. Please share more details.`)}`}
+                                href={`https://wa.me/${COMPANY_INFO.whatsapp}?text=${encodeURIComponent(`Hi, I'd like to enquire about ${medicine.name}. Please share more details.`)}`}
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex-grow md:flex-grow-0 px-10 py-5 border-2 border-[#25D366] text-[#25D366] text-xs font-black uppercase tracking-widest rounded-sm hover:bg-[#25D366] hover:text-white transition-all transform hover:-translate-y-1 active:scale-95 text-center"

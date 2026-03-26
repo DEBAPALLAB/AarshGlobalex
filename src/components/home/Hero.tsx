@@ -32,7 +32,7 @@ const Hero = () => {
                     <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight tracking-tight">
                         <span className="text-[#1a365d]">Aarsh Globalex –</span><br />
                         <span className="text-[#2e7d32]">
-                            Your Trusted<br />
+                            Your Trusted Global<br />
                             Pharmaceutical<br />
                             Export Partner
                         </span>

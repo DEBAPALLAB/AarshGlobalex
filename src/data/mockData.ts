@@ -62,8 +62,8 @@ export const COMPANY_INFO = {
   name: 'Aarsh Globalex',
   gst: '27AOEPR7150N1ZD',
   contactPerson: 'Mr. Sachin Raut',
-  mobile: '+91 72766 61881',
-  whatsapp: '917276661881',
+  mobile: '+91 9270785694',
+  whatsapp: '919270785694',
   address: 'RH 04, Vyanktesh Nagar, Near KDK college, Nandanvan Nagpur 440009',
 };
 

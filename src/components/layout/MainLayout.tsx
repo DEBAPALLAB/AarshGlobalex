@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './Header';
 import Navbar from './Navbar';
 import Footer from './Footer';
+import WhatsAppFloatingButton from '../ui/WhatsAppFloatingButton';
 import fs from 'fs/promises';
 import path from 'path';
 
@@ -28,6 +29,7 @@ const MainLayout = async ({ children }: MainLayoutProps) => {
                 {children}
             </main>
             <Footer />
+            <WhatsAppFloatingButton />
         </div>
     );
 };

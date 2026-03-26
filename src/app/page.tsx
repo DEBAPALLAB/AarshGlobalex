@@ -21,7 +21,7 @@ export default function Home() {
             {/* Left Column: Text Information */}
             <div className="space-y-6">
               <h2 className="text-3xl md:text-4xl font-extrabold text-[#1a365d] leading-tight">
-                Trusted International Trading & Export Company
+                Trusted Global Exporter of High-Quality Pharmaceutical Products
               </h2>
               <div className="h-1.5 w-24 bg-[#2e7d32] rounded-full"></div>
               <p className="text-slate-700 leading-relaxed text-lg font-medium">
@@ -35,7 +35,7 @@ export default function Home() {
               </p>
               
               <div className="pt-6">
-                <Link href="/contact-us">
+                <Link href="/company-profile">
                   <button className="bg-[#1a365d] text-white px-8 py-3.5 rounded-full text-sm font-bold uppercase tracking-wider transition-all shadow-lg hover:bg-[#2e7d32] hover:-translate-y-1 hover:shadow-xl flex items-center space-x-2">
                     <span>Read More</span>
                     <ArrowRight size={16} />
@@ -49,7 +49,6 @@ export default function Home() {
               {/* Mission */}
               <div className="bg-white p-6 rounded-2xl shadow-xl shadow-slate-200/60 border border-slate-100/80 transform transition-all hover:-translate-y-1 hover:shadow-2xl space-y-4 relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-16 h-16 bg-blue-50 rounded-bl-full -mr-4 -mt-4 transition-transform group-hover:scale-150"></div>
-                <div className="w-12 h-12 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center font-bold text-2xl relative z-10 shadow-sm">🎯</div>
                 <h3 className="font-extrabold text-[#1a365d] text-xl relative z-10">Our Mission</h3>
                 <p className="text-[15px] text-slate-700 leading-relaxed relative z-10">
                   To provide high-quality export products and reliable international trade solutions while building long-term trust with global clients.
@@ -59,7 +58,6 @@ export default function Home() {
               {/* Vision */}
               <div className="bg-white p-6 rounded-2xl shadow-xl shadow-slate-200/60 border border-slate-100/80 transform transition-all hover:-translate-y-1 hover:shadow-2xl space-y-4 mt-0 sm:mt-10 relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-16 h-16 bg-green-50 rounded-bl-full -mr-4 -mt-4 transition-transform group-hover:scale-150"></div>
-                <div className="w-12 h-12 bg-green-100 text-green-700 rounded-xl flex items-center justify-center font-bold text-2xl relative z-10 shadow-sm">🚀</div>
                 <h3 className="font-extrabold text-[#1a365d] text-xl relative z-10">Our Vision</h3>
                 <p className="text-[15px] text-slate-700 leading-relaxed relative z-10">
                   To become a leading global export company known for reliability, professionalism, and excellence in international trade.
@@ -69,7 +67,6 @@ export default function Home() {
               {/* Services */}
               <div className="bg-white p-6 rounded-2xl shadow-xl shadow-slate-200/60 border border-slate-100/80 transform transition-all hover:-translate-y-1 hover:shadow-2xl space-y-4 relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-16 h-16 bg-indigo-50 rounded-bl-full -mr-4 -mt-4 transition-transform group-hover:scale-150"></div>
-                <div className="w-12 h-12 bg-indigo-100 text-indigo-700 rounded-xl flex items-center justify-center font-bold text-2xl relative z-10 shadow-sm">🌐</div>
                 <h3 className="font-extrabold text-[#1a365d] text-xl relative z-10">Export Services</h3>
                 <ul className="text-[15px] text-slate-700 font-medium space-y-3 relative z-10 pl-1">
                   <li className="flex items-start"><span className="text-[#2e7d32] mr-2">✓</span> International Product Sourcing</li>
@@ -83,7 +80,6 @@ export default function Home() {
               {/* Why Choose Us */}
               <div className="bg-white p-6 rounded-2xl shadow-xl shadow-slate-200/60 border border-slate-100/80 transform transition-all hover:-translate-y-1 hover:shadow-2xl space-y-4 mt-0 sm:mt-10 relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-16 h-16 bg-amber-50 rounded-bl-full -mr-4 -mt-4 transition-transform group-hover:scale-150"></div>
-                <div className="w-12 h-12 bg-amber-100 text-amber-700 rounded-xl flex items-center justify-center font-bold text-2xl relative z-10 shadow-sm">✅</div>
                 <h3 className="font-extrabold text-[#1a365d] text-xl relative z-10">Why Choose Us</h3>
                 <ul className="text-[15px] text-slate-700 font-medium space-y-3 relative z-10 pl-1">
                   <li className="flex items-start"><span className="text-[#2e7d32] mr-2">✓</span> Trusted International Export Partner</li>
@@ -133,13 +129,15 @@ export default function Home() {
           </div>
 
           {/* Right Logos Grid */}
-          <div className="md:w-2/3 w-full grid grid-cols-2 sm:grid-cols-3 gap-8 md:gap-12 items-center justify-items-center">
-            <img src="/images/certifications/c1.webp" alt="GST Council" className="h-28 sm:h-32 md:h-36 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
-            <img src="/images/certifications/c2.webp" alt="FDA Maharashtra" className="h-28 sm:h-32 md:h-36 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
-            <img src="/images/certifications/c3.webp" alt="MSME" className="h-28 sm:h-32 md:h-36 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
-            <img src="/images/certifications/c4.webp" alt="Pharmexcil" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
-            <img src="/images/certifications/c5.webp" alt="Directorate General of Foreign Trade" className="h-28 sm:h-32 md:h-36 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
-            <img src="/images/certifications/c6.png" alt="ISO 9001:2015" className="h-28 sm:h-32 md:h-36 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+          <div className="md:w-2/3 w-full grid grid-cols-2 sm:grid-cols-4 gap-6 md:gap-8 items-center justify-items-center">
+            <img src="/images/certifications/c1.webp" alt="GST Council" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c2.jpeg" alt="FDA Maharashtra" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c3.webp" alt="MSME" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c4.jpeg" alt="Pharmexcil" className="h-16 sm:h-20 md:h-24 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c5.webp" alt="Directorate General of Foreign Trade" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c6.png" alt="ISO 9001:2015" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c7.jpeg" alt="Certification 7" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
+            <img src="/images/certifications/c8.jpeg" alt="Certification 8" className="h-20 sm:h-24 md:h-28 object-contain hover:scale-105 transition-transform duration-300 drop-shadow-sm" />
           </div>
 
         </div>

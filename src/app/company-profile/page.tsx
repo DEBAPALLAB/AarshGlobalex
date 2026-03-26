@@ -102,9 +102,6 @@ const CompanyProfile = () => {
                         <div className="bg-white rounded-2xl p-8 md:p-10 shadow-xl shadow-slate-200/50 border border-slate-100 relative overflow-hidden group">
                             <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50 rounded-bl-full -mr-6 -mt-6 transition-transform group-hover:scale-150 duration-500"></div>
                             <div className="relative z-10">
-                                <div className="w-14 h-14 bg-blue-100 text-blue-700 rounded-xl flex items-center justify-center mb-6 shadow-sm">
-                                    <Target size={28} />
-                                </div>
                                 <h3 className="text-xl font-extrabold text-gray-900 mb-4 tracking-tight">Our Mission</h3>
                                 <p className="text-gray-600 leading-relaxed text-[15px]">
                                     To provide high-quality export products and reliable international trade solutions while building long-term trust with global clients.
@@ -116,9 +113,6 @@ const CompanyProfile = () => {
                         <div className="bg-white rounded-2xl p-8 md:p-10 shadow-xl shadow-slate-200/50 border border-slate-100 relative overflow-hidden group">
                             <div className="absolute top-0 right-0 w-24 h-24 bg-green-50 rounded-bl-full -mr-6 -mt-6 transition-transform group-hover:scale-150 duration-500"></div>
                             <div className="relative z-10">
-                                <div className="w-14 h-14 bg-green-100 text-green-700 rounded-xl flex items-center justify-center mb-6 shadow-sm">
-                                    <Rocket size={28} />
-                                </div>
                                 <h3 className="text-xl font-extrabold text-gray-900 mb-4 tracking-tight">Our Vision</h3>
                                 <p className="text-gray-600 leading-relaxed text-[15px]">
                                     To become a leading global export company known for reliability, professionalism, and excellence in international trade.
