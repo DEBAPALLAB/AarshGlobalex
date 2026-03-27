@@ -78,3 +78,21 @@ h1, h2, h3, h4, h5, h6 {
 .animate-pulse-slow {
   animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
