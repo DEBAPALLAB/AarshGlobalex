@@ -23,10 +23,9 @@ const Hero = () => {
                 <div className="flex flex-col space-y-6 text-left pt-10">
                     {/* Logo Section */}
                     <div className="flex items-center space-x-3 mb-2">
-                        <div className="relative w-14 h-14 bg-white rounded-full p-1 shadow-sm">
+                        <div className="relative w-20 h-20 bg-white rounded-full p-1 shadow-sm">
                             <Image src="/favicon.ico" alt="Logo" fill className="object-contain p-1" />
                         </div>
-                        <span className="text-3xl md:text-4xl font-extrabold text-[#1a365d] tracking-tight">Aarsh Globalex</span>
                     </div>
 
                     <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight tracking-tight">
